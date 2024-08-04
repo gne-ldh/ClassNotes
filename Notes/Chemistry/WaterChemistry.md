@@ -1,4 +1,3 @@
-# Chemistry.github.io
 # Chapter-1
 ## WATER CHEMISTRY
 ### Sources of water:
