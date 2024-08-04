@@ -70,15 +70,15 @@ $Electrical Energy = QV
 
 Power is the rate at which work is being done or the rate at which enery is expanded. 
 
-Power = Work / Time
+$Power = Work / Time$
 
 Unit: Joule/sec or Watt
 
-Power = VI = I^2R = V^2/R
+$Power = VI = I^2R = V^2/R$
 
 ## Joule's Law of Heating
 
-Heat = I^2RT
+$Heat = I^2 RT$
 
 
 
