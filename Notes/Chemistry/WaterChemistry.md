@@ -1,7 +1,7 @@
 # Chemistry.github.io
 # Chapter-1
 ## WATER CHEMISTRY
-### 1. Sources of water:
+### Sources of water:
 **Water is a critical resource for human survival and livelihood. It is essential for drinking, agriculture, industry, and ecosystem health. There are three sources of water on Earth:**
 
 **1. Rainwater**: Rainwater is one of the most abundant sources of water, supplying the majority of the world's freshwater. While it is not always consistent, rainwater can be harvested and stored for future use, providing a reliable source of water in many regions.
