@@ -77,9 +77,9 @@ Permanent hardness of water can be removed by permutit process. Permutite is an 
 **Ion exchange or de-ionization process:-** Ion-exchange or Deionization or Demineralization Process - Recently ion-exchange resins have been used to remove all minerals from water. It is a process by which ions held on a porous, essentially insoluble solid are exchanged for ions in solution that is brought in contact with it.
 Ion-exchange Resin – An ion-exchange resin is a crosslinked organic polymer network having some ionisable group. It may be of two types depending upon the nature of the ionizable group.
 
-**(D)** Cation Exchange Resin or Cation Exchanger - Such resins have - SO₃H, -- COOH or -OH (phenolic) group as the ionizable group. Since these resins exchange the cationic portion of minerals by their hydrogen atom, they are known as cation exchangers.
+**(D)Cation Exchange Resin or Cation Exchanger:-** Such resins have - SO₃H, -- COOH or -OH (phenolic) group as the ionizable group. Since these resins exchange the cationic portion of minerals by their hydrogen atom, they are known as cation exchangers.
 
-**(E)** Anion Exchange Resin or Anion Exchanger – These resins have -NH₂, -NHCH₃, -N(CH₃)₂ or -OH group. They exchange the anionic portion of the minerals and they are known as anion exchanger.
+**(E) Anion Exchange Resin or Anion Exchanger :–** These resins have -NH₂, -NHCH₃, -N(CH₃)₂ or -OH group. They exchange the anionic portion of the minerals and they are known as anion exchanger.
 Uses of Ion-exchange Resin – Water treatment by ion-exchange resin includes softening deionization and de-alkalization of water. Therefore, hard water can be converted into soft water by making use of ion-exchange resins.
 
 
