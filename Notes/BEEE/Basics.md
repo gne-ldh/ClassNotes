@@ -12,7 +12,7 @@ Resistance is the opposition that a substance offers to the flow of electric cur
 
 Factors on which Resistance depends: 
 
-* R \propto length
+* $R \propto length$
 * R \propto 1/Area of Cross Section
 * R \propto Nature of Material
 
