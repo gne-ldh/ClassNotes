@@ -2,7 +2,7 @@
 
 Current is the flow of charge per unit time. 
 
-I = q/t
+$I = q/t$
 
 Unit: CT^-1 or Ampere
 
@@ -16,7 +16,7 @@ Factors on which Resistance depends:
 * R proportional to 1/Area of Cross Section
 * R depends on Nature of Material
 
-R = ρ l/A
+$R = ρ l/A$
 
 ## Ohm's Law
 
@@ -49,13 +49,16 @@ $PE = mgh$
 
 Energy possessed by a body by virtue of its motion. 
 
-KE = 1/2 mv^2
+$KE = 1/2 mv^2$
 
 ## Electrical Energy
 
 A Charge Q Coulomb moves a potential difference V in time t, then 
 
-Electrical Energy = QV = I^2RT = VIT = V^2T/R
+$ Electrical Energy = QV 
+                    = I^2RT
+                    = VIT 
+                    = V^2T/R$
 
 1 Joule is also known as Watt-Second. 
 
