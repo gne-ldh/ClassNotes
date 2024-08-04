@@ -55,7 +55,7 @@ $KE = 1/2 mv^2$
 
 A Charge Q Coulomb moves a potential difference V in time t, then 
 
-$ Electrical Energy = QV 
+$Electrical Energy = QV 
                     = I^2RT
                     = VIT 
                     = V^2T/R$
