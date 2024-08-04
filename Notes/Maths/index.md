@@ -19,5 +19,5 @@
 - |__index.md (for syllabus and editor information)
 - |__topics-menu.md(contains all the topic taught every week)
 - |__all-topic-files(contains topic wise explanation rather than chapter-wise)
--      |__images (contains images for ALL topics mentioned in topics-menu.md)
--      |__taylor-and-maclaurin-series.md (first topic posted here)
+      |__images (contains images for ALL topics mentioned in topics-menu.md)
+      |__taylor-and-maclaurin-series.md (first topic posted here)
