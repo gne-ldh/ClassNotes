@@ -78,7 +78,7 @@ $Power = VI = I^2R = V^2/R$
 
 ## Joule's Law of Heating
 
-$Heat = I^2 RT$
+\[ Heat = I^2 RT \]
 
 
 
