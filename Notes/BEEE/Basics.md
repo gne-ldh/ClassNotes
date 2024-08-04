@@ -22,7 +22,7 @@ R = ρ l/A
 
 Ohm's Law may be defined as physical state i.e., Temperature, Pressure remaining same, Current flowing through conductor is directly proportional to Potential Difference applied across its ends.
 
-V = IR
+$V = IR$
 
 Limitations: 
 
@@ -33,7 +33,7 @@ Limitations:
 
 Work is said to be done on a body when a force acts on it and the body moves through some distance. 
 
-W = F.s   (F = Force, s = distance)
+$W = F.s$   (F = Force, s = distance)
 
 SI Unit: Joule
 
@@ -43,7 +43,7 @@ Work done is stored in body in form of energy. Therefore, SI Unit of Energy is a
 
 Energy stored in body due to virtue of its position. 
 
-PE = mgh
+$PE = mgh$
 
 ## Kinetic Energy
 
