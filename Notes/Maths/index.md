@@ -3,7 +3,7 @@
 # Part A
 1. Differential Calculus
      - [Topic 1 : Taylor and Maclaurin Series](./all-topic-files/taylor-and-maclaurin-series.md)
-     - [Topic 2 : LHoptical Rule](./all-topic-files/lhopital-rule.md)
+     - [Topic 2 : L'hopital Rule](./all-topic-files/lhopital-rule.md)
      - [DPP 1](./all-topic-files/dpp1.md)
 2. Partial Differentiation and its Applications
 
