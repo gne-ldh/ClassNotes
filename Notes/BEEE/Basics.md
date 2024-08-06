@@ -32,7 +32,7 @@ Limitations:
 
 Work is said to be done on a body when a force acts on it and the body moves through some distance. 
 
-$W = F\cdots$   (F = Force, s = distance)
+$W = F \cdot s$   (F = Force, s = distance)
 
 SI Unit: Joule
 
