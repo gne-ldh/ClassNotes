@@ -2,7 +2,7 @@
 
 Current is the flow of charge per unit time. 
 
-$I = q/t$
+$I = \frac{q}/{t}$
 
 Unit: CT^-1 or Ampere
 
