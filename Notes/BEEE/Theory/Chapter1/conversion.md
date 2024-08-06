@@ -1,6 +1,6 @@
 ## Important Conversions
 
-* $1 KWh = 36 \cdot 10^5 Joule$
+* $1 KWh = 36 \times 10^5 Joule$
 * $1 Coulomb = 624 X 10^26 electron$
 * $1 Calorie = 4.186 Joule$
 * $1 Wh = 860 Calorie$
