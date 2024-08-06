@@ -2,7 +2,7 @@
 
 Current is the flow of charge per unit time. 
 
-$I = \frac{q}/{t}$
+$I = \frac{q}{t}$
 
 Unit: CT^-1 or Ampere
 
@@ -13,10 +13,9 @@ Resistance is the opposition that a substance offers to the flow of electric cur
 Factors on which Resistance depends: 
 
 * $R \propto length$
-* $R \propto 1/Area of Cross Section$
-* $R \propto Nature of Material$
+* $R \propto \frac{1}{Area of Cross Section}$
 
-$R = ρ l/A$
+$R = ρ \frac{l}{A}$
 
 ## Ohm's Law
 
@@ -33,7 +32,7 @@ Limitations:
 
 Work is said to be done on a body when a force acts on it and the body moves through some distance. 
 
-$W = F.s$   (F = Force, s = distance)
+$W = F\cdots$   (F = Force, s = distance)
 
 SI Unit: Joule
 
@@ -49,7 +48,7 @@ $PE = mgh$
 
 Energy possessed by a body by virtue of its motion. 
 
-$KE = 1/2 mv^2$
+$KE = \frac{1}{2} mv^2$
 
 ## Electrical Energy
 
@@ -58,7 +57,7 @@ A Charge Q Coulomb moves a potential difference V in time t, then
 $Electrical Energy = QV 
                     = I^2RT
                     = VIT 
-                    = V^2T/R$
+                    = \frac{V^2T}{R}$
 
 1 Joule is also known as Watt-Second. 
 
@@ -70,15 +69,15 @@ $Electrical Energy = QV
 
 Power is the rate at which work is being done or the rate at which enery is expanded. 
 
-$Power = Work / Time$
+$Power = \frac{Work}{Time}$
 
 Unit: Joule/sec or Watt
 
-$Power = VI = I^2R = V^2/R$
+$Power = VI = I^2R = \frac{V^2}{R}$
 
 ## Joule's Law of Heating
 
-$Heat = I^2 RT$
+$Heat = I^2RT$
 
 
 
