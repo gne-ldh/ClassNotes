@@ -1,4 +1,4 @@
-# Memory of Computer System
+# Memory and storage devices of Computer System
 
 ## Computer System
 
