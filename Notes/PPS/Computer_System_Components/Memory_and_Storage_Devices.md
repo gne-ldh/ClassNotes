@@ -1,6 +1,6 @@
 # Memory and storage devices of Computer System
 
-## Computer System
+## Computer System 
 
 A Computer is an electronic device that stores, manipulates and retrieves the data. We can also refer computer computes the information supplied to it and generates data.
 
