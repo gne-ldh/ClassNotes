@@ -6,6 +6,8 @@
 * $1 Wh = 860 Calorie$
 * $1 hp = 746 Watt$
 
-Note: 1 Board of Trade Unit means 1 KWh
+Note: 1 Board of Trade Unit means 1 Kwh
+_
+
 
 
