@@ -7,7 +7,6 @@
 * $1 hp = 746 Watt$
 
 Note: 1 Board of Trade Unit means 1 Kwh
-_
 
 
 
