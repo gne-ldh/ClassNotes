@@ -66,3 +66,16 @@ _Example_: Antivirus, Disk Manager
 
 #### Customized Software
 It is used or design to perform specific task for function for specific organisation. Example: Airline Ticket Reservation.
+
+## Difference between System & Application Software
+
+| Feature                         | System Software                                           | Application Software                                       |
+|---------------------------------|-----------------------------------------------------------|------------------------------------------------------------|
+| **Purpose**                     | Manages and controls hardware components and provides a platform for running application software. | Helps users perform specific tasks like word processing, browsing, or gaming. |
+| **Examples**                    | Operating Systems (Windows, macOS, Linux), Device Drivers, BIOS | Word Processors (MS Word), Web Browsers (Chrome, Firefox), Games |
+| **Dependency**                  | Works independently of application software; necessary for running application software. | Depends on system software to function and cannot run without it. |
+| **Installation**                | Usually comes pre-installed with the device or is installed during system setup. | Installed by the user based on need, either from a physical medium or via download. |
+| **Interaction with Hardware**   | Directly interacts with hardware components to manage resources like CPU, memory, and storage. | Indirectly interacts with hardware via system software for task execution. |
+| **Resource Management**         | Handles resource management, including memory allocation, process scheduling, and device management. | Utilizes resources provided by the system software to execute specific tasks. |
+| **User Interaction**            | Typically runs in the background with minimal direct user interaction; provides an interface for running applications. | Directly interacts with the user through GUIs (Graphical User Interfaces) for task completion. |
+
