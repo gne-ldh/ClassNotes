@@ -1,89 +1,90 @@
 ## 3.3 VARIABLE TREATED AS CONSTANT
 
-Consider $\( z = x^2 - y^2 \)$. Introducing polar coordinates $\( x = r \cos \theta \)$, $\( y = r \sin \theta \)$, we have $\( r^2 = x^2 + y^2 \)$ and $\( \theta = \tan^{-1} \frac{y}{x} \)$. To find $\( \frac{\partial z}{\partial \theta} \)$ with different variables treated as constant, i.e., to find $\( \left(\frac{\partial z}{\partial \theta}\right)_r \)$, $\( \left(\frac{\partial z}{\partial \theta}\right)_x \)$, $\( \left(\frac{\partial z}{\partial \theta}\right)_y \)$.
+Consider $z = x^2 - y^2$. Introducing polar coordinates $x = r \cos \theta$, $y = r \sin \theta$, we have $r^2 = x^2 + y^2$ and $\theta = \tan^{-1} \frac{y}{x}$. To find $\frac{\partial z}{\partial \theta}$ with different variables treated as constant, i.e., to find $\left(\frac{\partial z}{\partial \theta}\right)_r$, $\left(\frac{\partial z}{\partial \theta}\right)_x$, $\left(\frac{\partial z}{\partial \theta}\right)_y$.
 
-**Variable treated as constant:** $\( \left(\frac{\partial z}{\partial \theta}\right)_r \)$, usually read as "partial derivative of $\( z \) w.r.t. \( \theta \)$, with $\( r \)$ held constant". However, the important point is that $\( z \)$ has been written as a function of the variables $\( \theta \)$ and $\( r \)$ only and then differentiated w.r.t. $\( \theta \)$, keeping $\( r \)$ constant. Thus
+**Variable treated as constant:** $\left(\frac{\partial z}{\partial \theta}\right)_r$, usually read as "partial derivative of $z w.r.t. \theta$, with $r$ held constant". However, the important point is that $z$ has been written as a function of the variables $\theta$ and $r$ only and then differentiated w.r.t. $\theta$, keeping $r$ constant. Thus
 
-$\[
+$$
 z = x^2 - y^2 = r^2 \cos^2 \theta - r^2 \sin^2 \theta
-\]$
+$$
 
-$\[
+$$
 \left(\frac{\partial z}{\partial \theta}\right)_r = 2r^2 \left(\cos \theta (-\sin \theta) - \sin \theta \cos \theta \right)
-\]$
+$$
 
-$\[
-= -4r^2 \sin \theta \cos \theta
-\]$ (1)
+$$
+= -4r^2 \sin \theta \cos \theta                                 (1)
+$$ 
 
-To find $\( \left(\frac{\partial z}{\partial \theta}\right)_x \)$, express $\( z \)$ in terms of $\( \theta \)$ and $\( x \)$ as
+To find $\left(\frac{\partial z}{\partial \theta}\right)_x$, express $z$ in terms of $\theta$ and $x$ as
 
-$\[
+$$
 z^2 = x^2 - y^2 = x^2 - x^2 \tan^2 \theta.
-\]$
+$$
 
 Now,
 
-$\[
+$$
 \left(\frac{\partial z}{\partial \theta}\right)_x = x^2 \left(0 - 2 \tan \theta \cdot \sec^2 \theta \right) \tag{2}
-\]$ (2)
+$$
 
-To find $\( \left(\frac{\partial z}{\partial \theta}\right)_y \)$, express $\( z \)$ in terms of $\( \theta \)$ and $\( y \)$ as
+To find $\left(\frac{\partial z}{\partial \theta}\right)_y$, express $z$ in terms of $\theta$ and $y$ as
 
-$\[
+$$
 z = x^2 - y^2 = y^2 \cot^2 \theta - y^2
-\]$
+$$
 
 Now,
 
-$\[
+$$
 \left(\frac{\partial t}{\partial \theta}\right)_y = y^2 \left(2 \cdot \cot \theta \cdot (-\csc^2 \theta) \right) \tag{3}
-\]$ (3)
+$$
 
-These three expressions (1), (2), (3) for $\( \frac{\partial z}{\partial \theta} \)$ have different values and are derivatives of three different functions.
+These three expressions (1), (2), (3) for $\frac{\partial z}{\partial \theta}$ have different values and are derivatives of three different functions.
 
 ## WORKED OUT EXAMPLES
 
-**Example 1:** If $\( z = x^2 + 2y^2 \)$, $\( x = r \cos \theta \)$, $\( y = r \sin \theta \)$, find the partial derivatives:
+**Example 1:** If $z = x^2 + 2y^2$, $x = r \cos \theta$, $y = r \sin \theta$, find the partial derivatives:
 
-**a.** $\( \left( \frac{\partial z}{\partial x} \right)_y \)$
+**a.** $\left( \frac{\partial z}{\partial x} \right)_y$
 
-**b.** $\( \left( \frac{\partial z}{\partial x} \right)_\theta \)$ 
+**b.** $\left( \frac{\partial z}{\partial x} \right)_\theta$
 
-**c.** $\( \left( \frac{\partial z}{\partial \theta} \right)_r \)$ 
+**c.** $\left( \frac{\partial z}{\partial \theta} \right)_r$
 
-**d.** $\( \frac{\partial^2 z}{\partial r \partial y} \)$
+**d.** $\frac{\partial^2 z}{\partial r \partial y}$
 
 
-**Solution:** Here $\( z = x^2 + 2y^2 \)$, $\( r^2 = x^2 + y^2 \)$, $\( \tan \theta = \frac{y}{x} \)$
+**Solution:** Here $z = x^2 + 2y^2$, $r^2 = x^2 + y^2$, $\tan \theta = \frac{y}{x}$
 
-**a.** To get $\( \left( \frac{\partial z}{\partial x} \right)_y \)$, $\( z \)$ should be expressed as a function of $\( x \)$ and $\( y \)$  
+**a.** To get $\left( \frac{\partial z}{\partial x} \right)_y$, $z$ should be expressed as a function of $x$ and $y$ 
 i.e.,
 
-$\[
+$$
 z = x^2 + 2y^2
-\]$
+$$
 
-Differentiating partially w.r.t. $\( x \)$, with $\( y \)$ held constant:
+Differentiating partially w.r.t. $x$, with $y$ held constant:
 
-$\[
+$$
 \left( \frac{\partial z}{\partial x} \right)_y = 2x
-\]$
+$$
 
 **b.** Express z as function of x and θ
 
 z = x² + 2y² = x² + 2x² + tan² θ
 
-Differentiating partially w.r.t. x, keeping θ con-
-stant
+Differentiating partially w.r.t. x, keeping θ constant
 
-$(∂z/∂x)_θ$ = 2x + 4x tan² θ = 2x(1 + 2 tan² θ)
+$$
+\left( \frac{\partial z}{\partial x} \right)_θ = 2x + 4x tan² θ = 2x(1 + 2 tan² θ)
+$$
 
 **c.** Express z as function of r and θ
 
 z = r² cos² θ + 2r² sin² θ
 
-$(∂z/∂θ)_r$ = 2r² cos θ(- sin θ) + 2r²2 · sin θ · cos θ
+${∂z/∂θ}_r$ = 2r² cos θ(- sin θ) + 2r²2 · sin θ · cos θ
            = r² · sin 2θ
 
 **d.** z = (r² - y²) + 2y² = r² + y², ∂z/∂y = 2y,
@@ -104,15 +105,15 @@ we get u = (x² + y²)/2a                  (3)
 
  v = (x² - y²)/2b                  (4)
 
-Differentiating (3) partially w.r.t. x, keeping y con-
-stant, we get
+Differentiating (3) partially w.r.t. x, keeping y constant, we get
 
 $(∂u/∂x)_y$ = 2x/2a = x/a           (5)
 
-Differentiating (1) partially w.r.t. u, keeping v con-
-stant, we get
+Differentiating (1) partially w.r.t. u, keeping v constant, we get
 
-2x $(∂x/∂u)_v$ = a ∴ $(∂x/∂u)_v$ = a/2x (6)
+$$
+2x (∂x/∂u)_v = a ∴ (∂x/∂u)_v = a/2x (6)
+$$ 
 
 From (5) and (6)
 
@@ -330,12 +331,12 @@ V w.r.t. t.
 
 $\frac{dV}{dt}$ = $\frac{\partial V}{\partial x}\frac{dx}{dt}$ + $\frac{\partial V}{\partial y}\frac{dy}{dt}$
 
-= 1/3 $(2xy dx/dt + x^2 dy/dt)$
+= 1/3 $(2xy \frac{dx}{dt} + x^2 \frac{dy}{dt})$
 
 It is given that at x = 10, y = 15, dx/dt = -0.3 and
-dy/dt = 0.2, substituting these values,
+\frac{dy}{dt} = 0.2, substituting these values,
 
-dV/dt = 1/3 $[2·10·15(-0.3) + 10^2(0.2)]$
+\frac{dYV}{dt} = 1/3 $[2·10·15(-0.3) + 10^2(0.2)]$
      = -70 π cm^3/sec
 
 i.e., volume is decreasing at the rate of 70π/3.
@@ -397,9 +398,9 @@ Ans. **a.** Here x is the independent variable
 
  dz/dx = ∂z/∂x + ∂z/∂y · dy/dx = $y^2$ + 2xy + 2y + x
     
-   **b.** Here y is the independent variable
+**b.** Here y is the independent variable
    
-dz/dy = ∂z/∂y + ∂z/∂x · dx/dy = x $y^2$ + 2 $x^2$ y + 2xy + $x^2$
+\frac{dz}{dy} = ∂z/∂y + ∂z/∂x · \frac{dx}{dy} = x $y^2$ + 2 $x^2$ y + 2xy + $x^2$
 
 Find the differential of the following functions:
 
@@ -412,7 +413,7 @@ Ans. df = (cos y + y sin x)dx - (x sin y +
     
 Ans. du = $e^{xyz}$ (yz dx + xz dy + xy dz)
 
-Find du/dt for the following functions:
+Find \frac{du}{dt} for the following functions:
 
 12. u = $x^2$ - $y^2$, x = $e^t$ cos t, y = $e^t$ sin t
     at t = 0.
@@ -426,9 +427,9 @@ Ans. ( cos t - sin t - $e^{-t}$ )/(sin t + cos t + $e^{-t}$ )
 
 14. u = sin( $e^x$ + y), x = f(t), y = g(t)
     
-Ans. du/dt = [cos ( $e^x$ +y)] $e^x$ f'(t) + [cos( $e^x$ +y)]g'(t)
+Ans. \frac{du}{dt} = [cos ( $e^x$ +y)] $e^x$ f'(t) + [cos( $e^x$ +y)]g'(t)
 
 15. u = $x^y$ when y = $tan^{-1}$ t , x = sin t
     
-Ans. y · $x^{y-1}$  cos t + $x^y$ ln x · 1/1 = $t^2$ .
+Ans. y · $x^{y-1}$  cos t + $x^y$ ln x · 1/1+ $t^2$ .
 
