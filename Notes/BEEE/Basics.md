@@ -87,7 +87,7 @@ $Power = VI = I^2R = \frac{V^2}{R}$
 
 $Heat = I^2RT$
 
-## Circuit Wlements and Connected Terminology
+## Circuit Elements and Connected Terminology
 
 #D1
 
