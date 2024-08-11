@@ -108,13 +108,19 @@ $Heat = I^2RT$
 
 **Non-Linear Circuits:** Resistive elements for which the volt-ampere characterstics other than straight lines and electrical circuits containing them are non linear circuits eg- Resistance, Conductor and Capacitor. 
 
+## Unilateral and Bilateral Circuits
+
 **Unilateral Circuits**- An electrical circuit whose characterstics change with the direction of operation is called unilateral circuits. 
 
 **Bilateral Circuits**- An electrical circuit whose characterstics are same in either direction is called bilateral circuits. eg- Transmission line.
 
+## Active and Passive Network
+
 **Active Network**-An electrical network which contains one or more than one source of emf.
 
 **Passive Network**- A network which does not contain any souurce any source of emf.
+
+## Active and Passive Elements
 
 **Active Element**- The element which supplies energy to circuit.
 
@@ -124,6 +130,8 @@ E1 and E2 are active elements
 
 
 **Passive Elements:** The elements which recieve energy are called passive elemenents 
+
+## Basic Terms
 
 Node: Node is a point where two or more ements are joined.
 Node- A,B,C,D
