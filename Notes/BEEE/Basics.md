@@ -87,52 +87,51 @@ $Power = VI = I^2R = \frac{V^2}{R}$
 
 $Heat = I^2RT$
 
-## Circuit elements and connect terminology
+## Circuit Wlements and Connected Terminology
 
 #D1
 
+**Electrical Circuit** is an interconnection physical, electrical devices such as energy source, energy converter and conductors that connect them.
 
+**Energy Source** An energy source such as primary or secondary cell, a generator is a device that converts chemical, mechanical, thermal or some other form of energy to electrical energy.
 
-An **electrical circuit** is an interconnection physical , electrical devices such as energy source, energy converter and conductors that connect them
-
-**Energy source**- An energy source such as primary or secondary cell, a generator is a device that converts chemical,mechanical,thermal or some other form of energy to electrical energy 
-
-An energy coverter also called load converts electrical energy into light, heat and mechanical work and so on 
+**Energy Converter** also called load converts electrical energy into light, heat and mechanical work and so on 
 
 #D2 
 
 
-**Open source voltage**- The source emf or open circuit voltage, the voltage that appears across the source when no load is connected to it .When a load is connected to the source terminals and the circuit is closed and electric current starts flowing through circuit . Now voltage across source terminal is called as terminal voltage is not equal to source emf it is due to voltage drop inside source
+**Open Source Voltage**: The source emf or open circuit voltage, the voltage that appears across the source when no load is connected to it. When a load is connected to the source terminals and the circuit is closed and electric current starts flowing through circuit. Now voltage across source terminal is called as terminal voltage is not equal to source emf it is due to voltage drop inside source
 
-# LINEAR AND NON LINEAR CIRCUITS
+## Linear and Non-Linear Circuits
 
-**LINEAR CIRCUITS**- Resistive elements for which the volt-ampere characterstics is a straight line are called linear resistive elementa and the electrical circuits containing only linear resistance are called linear circuits .
+**Linear Circuits:** Resistive elements for which the volt-ampere characterstics is a straight line are called linear resistive elementa and the electrical circuits containing only linear resistance are called linear circuits.
 
-**NON LINEAR CIRCUITS**- Resistive elements for which the volt-ampere characterstics other than straight lines and electrical circuits containing them are non linear circuits eg- resistance,conductor and capacitor 
+**Non-Linear Circuits:** Resistive elements for which the volt-ampere characterstics other than straight lines and electrical circuits containing them are non linear circuits eg- Resistance, Conductor and Capacitor. 
 
-**Unilateral circuits**- An electrical circuit whose characterstics change with the direction of operation is called unilateral circuits. 
+**Unilateral Circuits**- An electrical circuit whose characterstics change with the direction of operation is called unilateral circuits. 
 
-**Bilateral circuits**- An electrical circuit whose characterstics are same in either direction is called bilateral circuits eg- Transmission line 
+**Bilateral Circuits**- An electrical circuit whose characterstics are same in either direction is called bilateral circuits. eg- Transmission line.
 
-**Active network**-An electrical network which contains one or more than one source of emf 
+**Active Network**-An electrical network which contains one or more than one source of emf.
 
-**Passive network**- A network which does not contain any souurce any source of emf 
+**Passive Network**- A network which does not contain any souurce any source of emf.
 
-**Active element**- The element which supplies energy to circuit 
+**Active Element**- The element which supplies energy to circuit.
 
 E1 and E2 are active elements 
 
 #D3
 
 
-The elements which recieve energy are called passive elemenents 
+**Passive Elements:** The elements which recieve energy are called passive elemenents 
 
-Node- Node is a point where two or more ements are joined
-
+Node: Node is a point where two or more ements are joined.
 Node- A,B,C,D
 
-JUnction is a point where 3 or more points are joined   B,D
+Junction: is a point where 3 or more points are joined.
+Ex: B,D
 
-Branch- It is the part of network which lies between two junction BAD,BCD,BD
+Branch: It is the part of network which lies between two junction. 
+Ex: BAD,BCD,BD
 
-LOOP- ABDA,BCDB,ABCDA
+LOOP: ABDA,BCDB,ABCDA
