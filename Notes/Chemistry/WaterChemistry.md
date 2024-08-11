@@ -142,6 +142,25 @@ Mg(HCO3)2 = 16.8, MgCl2 = 12.0, MgSO4 = 29.6 and NaCl = 5.0. Calculate temporary
                     = 37.29 mgs/Lit.
 
 
+## Boiler Feed Water
+
+- A Boiler is used to boil water.
+- Steam is used as a method of  energy generation.
+- Lost steam is condensed and converted to water.
+- This water obtained from condensing the steam plus new water is known as boiler feed water, which is again used in the boiler.
+
+
+## Specifications of Boiler Feed Water 
+
+- Free from hardness as it makes sludge and scale.
+- they should be no oil or Greece as it makes foam on the surface.
+- no alkali matter should be present as it causes caustic embrittlement.
+- free from the metals like Iron and Manganese.
+- free from turbidity
+- free from gases like carbon dioxide, hydrogen sulphide, oxygen, carbon monoxide, etc as they cause corrosion.
+
+
+
 
 
 
