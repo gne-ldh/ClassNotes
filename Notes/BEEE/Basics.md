@@ -17,6 +17,14 @@ Factors on which Resistance depends:
 
 $R = ρ \frac{l}{A}$
 
+## Effect of temperature on resistace
+
+**Pure metals**- When the Resistance is made of some pure metal its resistance increases with increase in temperature the increase is large and fairly uniform therefore temperature- resistance graph is a straight line thus pure metals have positive temperature coefficient resistance
+
+**Alloys**- When the resistance is made of some alloy its resistance increases with increase in temperature .But this increase is very small but irrregular so increase in resistance is almost negligible over a considerable range of temperature 
+
+**Semiconductors,insulators and electolytes**-The resistance of semiconductors, insulators and electrolytes decreases with increase in temperature .The decrease is non uniform thus these materials have negative  temperature coefficient .
+
 ## Ohm's Law
 
 Ohm's Law may be defined as physical state i.e., Temperature, Pressure remaining same, Current flowing through conductor is directly proportional to Potential Difference applied across its ends.
@@ -78,14 +86,6 @@ $Power = VI = I^2R = \frac{V^2}{R}$
 ## Joule's Law of Heating
 
 $Heat = I^2RT$
-
-## Effect of temperature on resistace
-
-**Pure metals**- When the Resistance is made of some pure metal its resistance increases with increase in temperature the increase is large and fairly uniform therefore temperature- resistance graph is a straight line thus pure metals have positive temperature coefficient resistance
-
-**Alloys**- When the resistance is made of some alloy its resistance increases with increase in temperature .But this increase is very small but irrregular so increase in resistance is almost negligible over a considerable range of temperature 
-
-**Semiconductors,insulators and electolytes**-The resistance of semiconductors, insulators and electrolytes decreases with increase in temperature .The decrease is non uniform thus these materials have negative  temperature coefficient .
 
 ## Circuit elements and connect terminology
 
