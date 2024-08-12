@@ -82,6 +82,7 @@ which is then fed to the computer that the bar code reader is connected to.
 OMR is a special type of optical scanner used to recognize the type of mark made 
 by pen or pencil. It is used where one out of a few alternatives is to be selected 
 and marked.
+#Output devices
 Output Devices are the devices that show us the result after giving the
 input to a computer system. Output can be of many different forms like
 image, graphic audio, video, etc. Some of the output devices are described
