@@ -11,8 +11,7 @@ of Input devices are:
 • Audio Input Devices
 # Keyboard
 Keyboard is the most common and very popular input device which helps to input 
-data to the computer. The layout of the keyboard is like that of traditional 
-typewriter, although there are some additional keys provided for performing 
+data to the computer. The layout of the keyboard is like that of traditional typewriter, although there are some additional keys provided for performing 
 additional functions.
 Keyboards are of two sizes 84 keys or 101/102 keys, but now keyboards with 104 
 keys or 108 keys are also available for Windows and Internet.
