@@ -1,4 +1,5 @@
 # Input Devices
+
 Input devices are the devices that are used to send signals to the computer for
 performing tasks. The receiver at the end is the CPU (Central Processing Unit),
 which works to send signals to the output devices. Some of the classifications
