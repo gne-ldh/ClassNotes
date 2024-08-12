@@ -40,6 +40,25 @@ into two types. They are
 1) Primary Memory
 2) Secondary Memory
 
+ ```mermaid
+flowchart TB;
+  A>Memory]-->B[Primary]
+  A-->C(Secondary
+- FDD
+- HDD
+- DVD
+- PENDRIVE)
+B-->D{ROM
+- PROM
+- EPROM
+- EEPROM}
+B-->E[RAM
+- SRAM
+- DRAM]
+  
+
+```
+
 ## Primary memory
 
 It is called the internal memory of the computer. And it is also known as main memory or Temporary memory. It holds the data and instructions that are presently working on the system or by the CPU. Primary Memory is called volatile memory, because when power is switched off it loses all data.
