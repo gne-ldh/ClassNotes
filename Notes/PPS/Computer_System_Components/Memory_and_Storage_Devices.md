@@ -15,46 +15,59 @@ Similarly a computer system can have objects and process. The following are the 
 
 Hardware of a computer system can be referred as anything which we can touch and feel. Example Keyboard and Mouse.
 
-The hardware of a computer system can be classified as
+*The hardware of a computer system can be classified as*
+
 1. Input Devices(I/P)
 2. Processing Devices (CPU)
 3. Output Devices(O/P)
 
-## Arithmetic and logical unit (ALU)
+## CPU (Central Processing Unit)
 
-It performs the Arithmetic and Logical Operations such as 
-1. +,-,*,/ (Arithmetic Operators)
-2. &&, || ( Logical Operators)
+CPU is considered as the brain of the computer. CPU performs all types of data processing operations. It stores data, intermediate results and instructions (program).It controls the operation of all parts of computer. After receiving data
+and commands from users, a computer system now has to process it according to the instructions provided. Here, it has to rely on a component called the central processing unit.
 
-## Control unit (CU)
+*CPU itself has following three components*
 
-Every Operation such as storing , computing and retrieving the data should be governed by the control unit. OUTPUT ALU, CU, MONITOR MEMORY UNIT (MU), KEYBOARD
+1. **ALU(Arithmetic Logic Unit)** - This part of the CPU performs arithmetic operations. It does basic mathematical
+calculations like addition, subtraction, division, multiplication, etc. Further, it can even perform logical functions like the comparison of data. This unit controls the operations of all parts of computer. It does not carry out any actual data processing operations.
 
-## Memory unit (MU)
+*Functions of this unit are*
 
-Memory is a storage part in a computer system. It is used to store the data, information and programs at the time of processing on the computer. It stores data either temporarily or permanent. The main use of memory is saving and
-retrieving data.
+- It is responsible for controlling the transfer of data and instructions among
+other units of a computer.
+- It manages and coordinates all the units of the computer.
+- It obtains the instructions from the memory, interprets them and directs the
+operation of the computer.
+- It communicates with Input/Output devices for transfer of data or results
+from storage.
+- It does not process or store data.
+  
+3. **Control Unit** - This unit is the backbone of computers. It is responsible for coordinating tasks between all components of a computer system. The control unit collects data from input units and sends it to processing units depending on its nature. Finally, it also further transmits processed data to output units for users. This is the most intricate
+unit in the processing component of the computer system, which accepts the raw data from the input components, and carries out the activities in a controlled format, in accordance with the directions provided by the computer operators. This is another unit of hardware module located inside the central processing unit.
 
-The Memory unit is used for storing the data. The Memory unit is classified
-into two types. They are
+4. **Memory unit (MU)** - Memory is a storage part in a computer system. It is used to store the data, information and programs at the time of processing on the computer. It stores data either temporarily or permanent. The main use of memory is saving and retrieving data.The Memory unit is used for storing the data.
+   
+*The Memory unit is classified into three types*
+
 1) Primary Memory
 2) Secondary Memory
+3) cache memory 
 
  ```mermaid
 flowchart TB;
-  A>Memory]-->B[Primary]
+  A[Memory]-->B[Primary]
   A-->C(Secondary
 - FDD
 - HDD
 - DVD
 - PENDRIVE)
-B-->D{ROM
+B-->D(ROM
 - PROM
 - EPROM
-- EEPROM}
-B-->E[RAM
+- EEPROM)
+B-->E(RAM
 - SRAM
-- DRAM]
+- DRAM)
   
 
 ```
@@ -104,7 +117,7 @@ ROM is of three types which are as follows -
 
 It is an external memory of the computer. It is also known as Auxiliary memory or permanent memory. It is used to store different programs and the information permanently. We call it a non-volatile memory that means the data is stored permanently even if power is switched off.
 
-The secondary storage devices are as follows −
+The secondary storage devices are as follows 
 
 - Floppy Disks
 - Magnetic (Hard) Disk 
@@ -115,15 +128,54 @@ The secondary storage devices are as follows −
 
 ## Storage Devices
 
-1. *Magnetic Storage devices* - The Magnetic Storage devices store information that can be read, erased and rewritten a number of times. Example
+1. **Magnetic Storage Devices**- In the Magnetic storage devices, all data are stored with using magnetized medium, and those types of data saved in that medium in the binary form like as 0 and 1. This magnetic storage has also non-volatile storage nature. These storage devices are not more costly but their data accessing power is slow, but this magnetic mechanism also to be used in the RAM that have good data accessing power to other.
+   
+*Examples of magnetic storage devices are -*
 
-- Floppy Disks
-- Hard Disks
-- Magnetic Tapes etc.
+- Floppy diskette
+-  Hard drive
+- Magnetic strip
+- SuperDisk
+- Tape cassette
+- Zip diskette
 
-2. *Optical Storage devices* - The optical storage devices that use laser beams to read and write stored data. Example
-- CD(Compact Disk)
-- DVD(Digital Versatile Disk)
+2. **Optical Storage devices** - In the optical storage devices, all read and write activities are performed by light. All recording information stores at an optical disk. As per the opinions of data scientist that compact space is most useful for huge data storage. Their big advantages are not more costly, light weight, and easy to transport because it is
+removable device unlike hard drive.
+
+*Examples of Optical Storage devices are -*
+
+- Blu-ray disc
+- CD-ROM disc
+- CD-R and CD-RW disc.
+- DVD-R, DVD+R, DVD-RW, and DVD+RW disc.
+
+*Following are some optical storage devices -*
+
+1. **Flash memory devices-** Flash Memory was introduced by Dr. Fujio Masuoka in 1980. Flash memory is also known as electronically erasable programmable read only memory (EEPROM), because in which piece of code like as programming can be write and erased by electrically. Flash memory also uses for the storing data to computers as well as electronic devices such as USB flash drives, MP3 players, digital cameras and solid-state drives. Flash memory is non volatile in nature
+because all data are persisted in the memory when power is turn-off.
+
+*Examples of flash memory devices are-*
+
+- USB flash drive, jump drive, or thumb drive.
+- CF (CompactFlash)
+- M.2
+- Memory card
+- MMC
+- NVMe
+-  SDHC Card
+- martMedia Card
+- ony Memory Stick
+- SD card
+- SSD
+- xD-Picture Card
+
+2. **Online cloud system** -Online Cloud System Clouding issystematically model forstoring data in computer, and in which entire data are stored in logically nature. Those clouding system are managed by other hosting companies. With the help of online clouding, all data can be access by couples of users anytime and anywhere. Big advantages are not place limitation as well as no need carry any storage device.
+
+*There are some types-*
+
+- Cloud storage
+- Network media
+
 
 
 
