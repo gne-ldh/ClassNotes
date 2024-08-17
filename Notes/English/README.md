@@ -64,7 +64,89 @@ CORRECTNESS - Correct language, information, grammar spelling.
 
 COURTIOUSNESS - Be polite words are to be used.
 
+---
 
+# BARRIERS IN COMMUNICATION
+
+1. Semantic barriers
+2. Physical barriers
+3. Cultural barriers
+4. Emotional psychological barriers
+5. Socio-psychological barriers
+6. Technological barriers
+7. Organisatiional barriers
+8. Personal barriers
+
+   ---
+
+   ***SEMANTIC BARRIERS***
+   
+- Different words
+
+-Different language
+
+- Pictures
+
+- Poor vocabulary
+
+- Actions
+
+---
+
+***PHYSICAL BARRIERS***
+
+- Noise
+- Bad timing
+- distance
+
+  ---
+
+  ***CULTURAL BARRIERS***
+
+  Religional basis
+
+  ---
+
+  ***EMOTIONAL PSYCHOLOGICAL BARRIERS***
+
+  - Loss in transmission and retension (Harmful state of mind.)
+  - Lack of trust in management
+  - Failure to communicate
+  - Dependancy on written work
+
+---
+
+***SOCIO-PSYCHOLOGICAL BARRIERS***
+
+- Personal attitude
+- Close mindedness
+- Status consciousness
+
+  EXAMPLE - Society thinking,Society nature etc.
+
+  ---
+
+  ***TECHNOLOGICAL BARRIERS***
+
+  - Use of absolete
+  - Lack of techinlogy
+  - Tech noise
+  - Hurdles at decoding stage
+
+    ---
+
+    ***ORGANISATIONAL BARRIERS***
+
+    - Organisational policies
+    - Structure of organisation
+    - Shortage of facilities in an organisation
+
+---
+
+***PERSONAL BARRIERS***
+
+- Superior and subordinate relationship
+- Poor listening
   
 
   
