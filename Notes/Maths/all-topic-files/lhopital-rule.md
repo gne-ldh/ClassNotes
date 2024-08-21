@@ -258,7 +258,7 @@ find  $\lim_{x \to \infty} ln f(x)$. Since
 
 $lnf(x) = ln (x)^{\frac{1}{x}}$
 
-=  $(\frac{ln x}{x} \)$ ,
+=  $(\frac{ln x}{x})$ ,
 
 L'Hopital's rule gives
 
@@ -274,44 +274,10 @@ $\ \lim_{x \to \infty}$ $\( (x)^{\frac{1}{x}} )\$ = $\ \lim_{x \to \infty}$ *f(x
 = 1
 
 
+$$
+\lim_{x \to \infty} (x)^{\frac{1}{x}} = \lim_{x \to \infty} f(x) = \lim_{x \to \infty} e^{\ln f(x)} = e^0 = 1
+$$
 
 
 
-  
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
- 
-
- 
-
- 
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
- 
-
+Rai HS | 2
