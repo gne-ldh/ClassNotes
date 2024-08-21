@@ -270,9 +270,6 @@ $\ \lim_{x \to \infty}$ ln *f(x)* = $\ \lim_{x \to \infty}$ $(\frac{ln x}{x} \)$
 
 Therefore,
 
-$\ \lim_{x \to \infty}$ $\( (x)^{\frac{1}{x}} )\$ = $\ \lim_{x \to \infty}$ *f(x)* = $\ \lim_{x \to \infty}$ $\( e^{ln f(x)} )\$ =  $\ e^0 \$
-= 1
-
 
 $$
 \lim_{x \to \infty} (x)^{\frac{1}{x}} = \lim_{x \to \infty} f(x) = \lim_{x \to \infty} e^{\ln f(x)} = e^0 = 1
