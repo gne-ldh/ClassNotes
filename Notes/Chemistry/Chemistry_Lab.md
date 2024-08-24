@@ -1,6 +1,6 @@
 # Chemistry Lab
 
-### Experiment 1
+## Experiment 1
 ### Aim:
 **Introduction to glass apparatus in chemistry labouratry. Its handling, using, cleaning and precautions to  be taken.**
 ### Apparatus:
@@ -108,3 +108,97 @@
 * Avoid using steel wool or sharp objects to clean the apparatus.
 * Make sure to dry the apparatus before and after rinsing. 
 
+## Experiment 2
+### Aim:
+
+**To determine the strength of a hard water sample in mg/L by using 0.01M EDTA solution/ complex metro titration.**
+
+### Apparatus:
+
+**Burette, Burette stand, pipette, titraton flask, funnel, dropper and white tile.**
+
+### Chemical required:
+
+**0.01M EDTA, sample water, Ammonia Buffer and Indicator- Eriochrome Black T (EBT)**
+
+### End point:
+
+*Change in color from wine red to blue.*
+
+### Chemical equation:
+
+**M⁺² + EBT → [M-EBT]**
+
+Proceeds in the presence of Ammonia Buffer. Here Ammonia Buffer is used to maintain the pH. 
+
+**[M-EBT]→ [M-EDTA] + EBT**
+
+Proceeds in presence of EDTA having concentration M/100.
+
+### Theory:
+
+EDTA is a hexadentate ligand, meaning it can bind to a metal ion with six donor atoms. It's cheap in cost and the solution can be quite stable over time, Hence is used in the titration.
+
+EBT serves as a visual indicator. It initially forms a colored complex with the metal ion (M⁺²). As EDTA is added, it chelates the metal ion, displacing EBT. The release of EBT results in a color change, indicating the endpoint of the titration.
+
+### Procedure:
+
+1. Rinse the apparatus with running water.
+2. Fill the burette with 0.01M EDTA solution and tighten the burette clamp securely to hold the burette firmly in place.
+3. Pipette out 25mL of water sample and transfer it to a titration/conical flask.
+4. Put two drops of Ammonia Buffer in the titration flask containing the water sample.
+5. Put a drop of EBT in the solution, the color of solution will turn wine red.
+6. Place the titration flask on the burette stand.
+
+ **Start Titration:**
+   
+1. Note the initial reading on the Burette.   
+2. Hold the stopclock with one hand and titration flask with other.
+3. Shake the titration flask gently as the drop of EDTA solution pour in the titration flask.
+4. Close the stopclock when the color of solution in titration flask turn from wine red to blue.
+5. Note down the final reading from the burette.
+6. Repeat the steps 3-4 times.
+ 
+   ### Observations: 
+   
+   | S. No. | Intial Burette Reading | Final Burette Reading | Volume Of EDTA Used |
+   | ------ | ---------------------- | --------------------- | ------------------- |
+   | 1. | 21.7 | 28.2 | 6.5 |
+   | 2. | 28.2 | 34.5 | 6.3 |
+   | 3. | 34.5 | 6.3 | 6.6 |
+
+ ### Calculations:
+
+ Volume of EDTA solution (V₂) = (6.5+6.3+6.6)/3
+ 
+  = 6.46 mL
+ 
+ M₁V₁ = M₂V₂
+ 
+M₁ = Molar weight of sample water
+
+V₁ = Volume of sample water
+
+M₂ = Molar weight of EDTA
+
+M₁ * 25ml = 0.001M * V₂
+  
+  M₁ = (0.01 * 6.46)/ 25
+  
+  = 0.002584
+  
+  = 0.002584 * 100 = 0.2584 
+
+  **Strength of sample water:**
+
+  = 0.2584 * 1000
+  
+  = 258.4 g/L
+
+  ### Precautions:
+  1. Handle the stopcock carefully to prevent leaks.
+  2. Tighten the burette clamp securely to hold the burette firmly in place.
+  3. Adjust the height of the burette clamp to ensure proper alignment with the titration flask.
+  4. After transferring the solution using the pipette, do not shake out the last drops of solution left in it.
+  5. Shake the titration flask gently, make sure the EDTA solution isnt on the inner walls of it.
+   
