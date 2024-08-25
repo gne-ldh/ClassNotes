@@ -232,6 +232,40 @@ The EDTA titration method is widely used because it is accurate, relatively simp
 - free from gases like carbon dioxide, hydrogen sulphide, oxygen, carbon monoxide, etc as they cause corrosion.
 
 
+## Problems of Boiler 
+
+# 1. Sludge and Scale
+
+| Sludge | Scale |
+| --- | --- |
+| Loose, slimy and non-adhering. | Hard and adhering. |
+| Formed at cool place. | Form that warm place. |
+| It blocks the pipe. | It is of three types loose, brittle and hard. |
+| It is removed by wire brush and blow down method. | loose scale can be removed as sluge, brittle scale are removed by cold water, hot scales are removed by chemical methods for example calcium carbonate scale is removed by HCL and calcium sulphate scale is removed by EDTA solution. |
+| Magnesium chloride, Magnesium Sulphate and Calcium Chloride are the examples of sludge. | Calcium Carbonate, Calcium Sulphate and Calcium Hydroxide are the examples of sludge. |
+
+### 2. Priming and Foaming
+- When boiler is producing steam rapidly some droplets of liquid water go along with steam. The process of wet stream is known as Priming.
+- Reasons
+  1. boiling temperature
+  2. presence of salts
+  3. overfield boiler
+  4. boiling time
+  5. incorrect design
+  6. sudden heat or high velocity heat
+- The oil or Greece present in water results in form on the surface this is called as forming.
+- Castor oil(anti-forming agent) acts by counter acting the reduction in surface tension by foam.
+
+### 3. Boiler Corrosion(slow decay of metal) 
+
+### by dissolved oxygen 
+8 ppm of oxygen is already dissolved in water, however this corrosion is done by extra oxygen.
+Fe + H_2O + O_2 --> Fe(OH)_2
+
+
+
+
+
 
 
 
