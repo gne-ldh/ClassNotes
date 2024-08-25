@@ -152,39 +152,11 @@ COURTIOUSNESS - Be polite words are to be used.
 
 ***
 
-##NON VERBAL COMMUNICATION
 
-According to Vaughan and Hogg,
-non  verbal is the transfer of meaningful information from one person to another by
-means other than written or spoken words.
-
-***CHARACTERSTICS OF NON VERBAL COMMUNICATION :
-
-- It is primarily emotionally attitude.
-  
-- It is substitute of emphasises.
-
-- It is a continous process.
 
 - It is more reliable.
 
-- Non verbal cues are often ambigous.
 
-  ***Main components of communication
-
-  - Paralanguage (Vocalics)
-    
-  - Kinesics (Body Language)
-    
-  - Symbols/Signs (Sign Language)
-    
-  - Haptics (Touch communication)
-
-  - Proxemics (Space Language)
-
-  - Chroenemics / Time management
- 
-    
   
 
   
