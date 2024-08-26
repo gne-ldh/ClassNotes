@@ -152,22 +152,95 @@ COURTIOUSNESS - Be polite words are to be used.
 
 ***
 
+##Non verbal communication
+
+According to Vahugan and Hogg , non verbal communication is the transfer of meaningful information from one person to another by means other than written or spoken words. 
+ 
+---
+
+*Characteristics of nonverbal communication*
+
+- It primary emotionally attitude 
+- It is substitute of emphasis 
+- It is continuous process 
+- It is more reliable nonverbal cues are often ambience. 
+---
 
 
-- It is more reliable.
+***Main components of communication***: 
+
+1. Para language
+( vocalysis ) 
+2. Kinesics( body language) 
+ symbol/ sign (sign language) 
+3. Haptics (touch communication) 
+4. Proxemics (space language ) 
+5. Chronemics (time management)
+
+    
+---
+
+*Para language *
+It can be defined as the meaning that is derived from how a message is said where as oral communication deal with the content of the message. 
+
+Types: 
+
+1. Voice qualifiers
+2. Voice quality 
+3. Voice filters 
+4. Articulation
+
+   ---
+
+**Kinesics body language**
+
+1. Elements 
+2. Gestures 
+3. Facial expression 
+4. Eye contact
+5.Poster
+6. dress code
+
+It can be defined as an analysis of body movements.
+
+---
 
 
-  
+**Proxymics**
 
-  
+It is study of understanding the way people utilise the physical space around them and the utilisation reflects about them.
 
+Types
+1. Intimate distance
+2. Personal distance 
+3. Social distance 
+4. Public distance
 
+   ---
 
+**Symbol /sign language**
 
+Create a lasting impact.
+Nowadays only use of verbal communication is not considered enough for a long lasting impression.
 
+---
 
+**Chronymics / time management**
 
+In time language people can we message to others in a way that Emphasis the importance of time.
 
+Types
+- Monochromic 
+- polycromic
 
+ ---
 
+**Haptic communication / touch**
 
+Types:
+- Positive effect touch 
+- Playful touch 
+- Control touch 
+- Retualastic touch (greeting and departure) 
+- Hybrid touch (greeting and love) task related touch
+- Accidental touch
