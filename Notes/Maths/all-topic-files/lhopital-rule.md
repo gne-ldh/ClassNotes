@@ -21,9 +21,7 @@ from which we can calculate derivatives .
 
 Suppose that $f(a) = g(x) = 0$ , that $f'(a)$ and $g'(a)$ exist, and that $g'(a) ≠ 0$ . Then 
 
-$$
-  lim_{x→0} \frac {f(x)} {g(x)} = \frac {f'(a)} {g'(a)} \tag{1}
-$$
+$lim_{x→0} \frac {f(x)} {g(x)} = \frac {f'(a)} {g'(a)} \tag{1}$
 
 
 ## Proof
@@ -73,9 +71,9 @@ $$
 
 Suppose that $f(a) = g(a) = 0$ and that $f$ and $g$ are differentiable on an open interval $I$ containing $a$. Suppose also that $g'(x) \neq 0$ on $I$ if $x \neq a$. Then
 
-$$
-\lim_{x \to a} \frac{f(x)}{g(x)} = \lim_{x \to a} \frac{f'(x)}{g'(x)} \tag{2}
-$$
+
+$\lim_{x \to a} \frac{f(x)}{g(x)}   =  \lim_{x \to a} \frac{f'(x)}{g'(x)} \tag{2}$
+
 
 if the limit on the right exists (or is $\infty$ or $-\infty$ ).
 
@@ -258,15 +256,15 @@ find  $\lim_{x \to \infty} ln f(x)$. Since
 
 $lnf(x) = ln (x)^{\frac{1}{x}}$
 
-=  $(\frac{ln x}{x})$ ,
+=  $\frac{ln x}{x}$ ,
 
 L'Hopital's rule gives
 
-$\ \lim_{x \to \infty}$ ln *f(x)* = $\ \lim_{x \to \infty}$ $(\frac{ln x}{x} \)$                    $\( \frac{infty}{infty} \)$
+$\lim_{x \to \infty}$ ln *f(x)* = $\lim_{x \to \infty}$ $\frac{ln x}{x}$                    $\frac{infty}{infty}$
 
-= $\ \lim_{x \to \infty}$  $(\frac{1/x}{1} \)$
+= $\lim_{x \to \infty}$  $\frac{1/x}{1}$
 
-= $(\frac{0}{1} \)$ = 0.
+= $\frac{0}{1}$ = 0.
 
 Therefore,
 
