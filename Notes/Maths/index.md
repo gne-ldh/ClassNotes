@@ -6,13 +6,15 @@
      - [Topic 2 : L'hopital Rule](./all-topic-files/lhopital-rule.md)
      - [DPP 1](./all-topic-files/dpp1.md)
 2. Partial Differentiation and its Applications
-     - [Topic 1](./all-topic-files/partial-differential1.md)
+     - [Part 1](./all-topic-files/partial-differential1.md)
+     - [Part 2](./all-topic-files/partial-differential2.md)
+     
 
 # Part B
 3. Ordinary Differential Equation and its Applications
 4. Complex Numbers and Elementary Functions of complex variables
 
-[see detailed topics](/topics-menu)
+
 
 
 ## Editor Guidelines
