@@ -234,7 +234,7 @@ The EDTA titration method is widely used because it is accurate, relatively simp
 
 ## Problems of Boiler 
 
-# 1. Sludge and Scale
+### 1. Sludge and Scale
 
 | Sludge | Scale |
 | --- | --- |
