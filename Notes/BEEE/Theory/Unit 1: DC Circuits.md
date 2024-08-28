@@ -30,6 +30,7 @@ Factors on which Resistance depends:
 Ohm's Law may be defined as physical state i.e., Temperature, Pressure remaining same, Current (I) flowing through conductor is directly proportional to Potential Difference (V) applied across its ends.
 
 $$I \propto V$$
+
 $$V = IR$$
 
 Limitations: 
@@ -90,15 +91,11 @@ $Heat = I^2RT$
 
 ## Circuit Elements and Connected Terminology
 
-#D1
-
 **Electrical Circuit** is an interconnection physical, electrical devices such as energy source, energy converter and conductors that connect them.
 
 **Energy Source** An energy source such as primary or secondary cell, a generator is a device that converts chemical, mechanical, thermal or some other form of energy to electrical energy.
 
 **Energy Converter** also called load converts electrical energy into light, heat and mechanical work and so on 
-
-#D2 
 
 
 **Open Source Voltage**: The source emf or open circuit voltage, the voltage that appears across the source when no load is connected to it. When a load is connected to the source terminals and the circuit is closed and electric current starts flowing through circuit. Now voltage across source terminal is called as terminal voltage is not equal to source emf it is due to voltage drop inside source
