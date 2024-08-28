@@ -122,22 +122,18 @@ $Heat = I^2RT$
 
 **Active Element**- The element which supplies energy to circuit.
 
-E1 and E2 are active elements 
-
-#D3
-
-
 **Passive Elements:** The elements which recieve energy are called passive elemenents 
 
 ## Basic Terms
 
-Node: Node is a point where two or more ements are joined.
+Node: Node is a point where two or more elements are joined.
 Node- A,B,C,D
 
 Junction: is a point where 3 or more points are joined.
 Ex: B,D
 
 Branch: It is the part of network which lies between two junction. 
+
 Ex: BAD,BCD,BD
 
 LOOP: ABDA,BCDB,ABCDA
