@@ -85,7 +85,7 @@ $Power = VI = I^2R = \frac{V^2}{R}$
 
 ## Joule's Law of Heating
 
-$Heat = I^2RT$
+$$Heat = I^2RT$$
 
 ## Circuit Elements and Connected Terminology
 
