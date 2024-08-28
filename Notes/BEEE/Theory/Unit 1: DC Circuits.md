@@ -15,7 +15,7 @@ Factors on which Resistance depends:
 * $R \propto length$
 * $R \propto \frac{1}{Area of Cross Section}$
 
-$R = ρ \frac{l}{A}$
+* $R = ρ \frac{l}{A}$
 
 ## Effect of temperature on resistace
 
@@ -27,9 +27,10 @@ $R = ρ \frac{l}{A}$
 
 ## Ohm's Law
 
-Ohm's Law may be defined as physical state i.e., Temperature, Pressure remaining same, Current flowing through conductor is directly proportional to Potential Difference applied across its ends.
+Ohm's Law may be defined as physical state i.e., Temperature, Pressure remaining same, Current (I) flowing through conductor is directly proportional to Potential Difference (V) applied across its ends.
 
-$V = IR$
+$$I \propto V$$
+$$V = IR$$
 
 Limitations: 
 
@@ -85,7 +86,7 @@ $Power = VI = I^2R = \frac{V^2}{R}$
 
 ## Joule's Law of Heating
 
-$$Heat = I^2RT$$
+$Heat = I^2RT$
 
 ## Circuit Elements and Connected Terminology
 
