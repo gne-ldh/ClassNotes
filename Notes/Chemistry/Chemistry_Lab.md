@@ -131,7 +131,7 @@
 
 Proceeds in the presence of Ammonia Buffer. Here Ammonia Buffer is used to maintain the pH. 
 
-**[M-EBT]→ [M-EDTA] + EBT**
+**[M-EBT] → [M-EDTA] + EBT**
 
 Proceeds in presence of EDTA having concentration M/100.
 
@@ -202,3 +202,99 @@ M₁ * 25ml = 0.001M * V₂
   4. After transferring the solution using the pipette, do not shake out the last drops of solution left in it.
   5. Shake the titration flask gently, make sure the EDTA solution isnt on the inner walls of it.
    
+## Experiment: 3
+
+### Aim:
+
+**To determine the chloride content in the given water sample (in mg/L) by using N/50 AgNO₃ (Arentometric Titration) (Precipitate Titration)**
+
+### Apparatus: 
+
+**Burette, Burette stand, dropper, funnel, beaker, pipette, titration flask and white tile**
+ 
+### Chemicle required:
+
+**Sample water, N/50 AgNO₃ and Indicator- Potassium Chromate (K₂Cr₃)**
+
+### End Point: 
+
+**Yellow to Brick red Precipitates**
+
+### Chemical equation:
+
+ **MCl₂ + 2AgNO₃ → 2AgCl + M(NO₃)₂**
+ 
+*M in this reaction is Metal ion ie: Calcium and magnesium.*
+
+ **2AgNO₃ + K₂CrO₄ → AgCrO₄ + 2KNO₃** 
+
+ *In this reaction the brick red ppts are made by AgCrO₄*
+
+ ### Theory:
+
+ Chloride in the form of Chloride ion is one of the major inorganic anion in water and waste water Chloride content in water means presence of CaCl₂, MgCl₂, NaCl etc.
+ 
+ Chloride content is estimated by using Arentometric Titration. Water containing Chlorides are titrated with silver nitrate (AgNO₃) solution, chlorides are precipated as Silver Chloride (AgCrO₄).
+ 
+ Potassium chromate (K₂CrO₄) is used as an indicator, which gives chromate ions as the concentration of chloride ions approaches entincation, silver ions concentration increases to a level at which brick red precipitate of Silver Chromate (AgCrO₄) is formed indicating the end point.
+
+### Observation:
+
+| S. No. | Initial Burette Reading | Final Burette Reading | Volume of AgNO₃ used |
+| ---- | --- | --- | --- |
+| 1. | 30.5| 32.2 | 1.7 |
+| 2. | 32.2 | 33.8 | 1.7 |
+| 3. | 33.9 | 35.6 | 1.7 |
+
+### Calculation:
+
+ Volume of AgNO₃ solution (V₂) = ( 1.7+1.7+1.7 )/3
+                               = 1.7 mg/L
+                               
+ N₁V₁ = N₂V₂
+ 
+N₁ = Normal weight of sample water
+
+V₁ = Volume of sample water
+
+N₂ = Normal weight of AgNO₃
+
+
+N₁ * 25ml = N/50 * V₂
+
+N₁ * 25ml = N/50 * 1.7
+
+N₁ = 1.7 / ( 50*25 )
+
+= 0.00136 g/L
+
+Strength = 0.00136 * 35.5
+= 0.04828 g/L
+= 0.04828 * 1000 mg/L
+= 48028 mg/L
+
+### Procedure:
+
+1. Rinse the apparatus with running water.
+2. Fill the burette with N/50 solution of AgNO₃ and tighten the burette clamp securely to hold the burette firmly in place.
+3. Pipette out 25mL of water sample and transfer it to a titration/conical flask.
+4. Put two drops of Ammonia Buffer in the titration flask containing the water sample.
+5. Put a drop of Potassium chromate in the solution, the color of solution will turn yellow.
+6. Place the titration flask on the burette stand.
+
+ **Start Titration:**
+   
+1. Note the initial reading on the Burette.   
+2. Hold the stopclock with one hand and titration flask with other.
+3. Shake the titration flask gently as the drop of AgNO₃ solution pour in the titration flask.
+4. Close the stopclock when brick red precipetates apper ofin titration flask.
+5. Note down the final reading from the burette.
+6. Repeat the steps 3-4 times.
+
+  ### Precautions:
+  1. Handle the stopcock carefully to prevent leaks.
+  2. Tighten the burette clamp securely to hold the burette firmly in place.
+  3. Adjust the height of the burette clamp to ensure proper alignment with the titration flask.
+  4. After transferring the solution using the pipette, do not shake out the last drops of solution left in it.
+  5. Shake the titration flask gently, make sure the EDTA solution isnt on the inner walls of it.
+  
