@@ -4,9 +4,9 @@
 
 *SYLLABUS*
 
-[Unit 1 LISTENING SKILLS](https://github.com/Japmankaur/english.notes/blob/main/unit%201.md)
+Unit 1 LISTENING SKILLS](https://github.com/Japmankaur/english.notes/blob/main/unit%201.md
 
-[Unit 2 COMMUNICATION SKILLS](https://github.com/Japmankaur/english.notes/blob/main/unit%202.md)
+Unit 2 COMMUNICATION SKILLS](https://github.com/Japmankaur/english.notes/blob/main/unit%202.md
 
 ----
 
@@ -18,9 +18,9 @@ It is a process of exchanging information idea,though emotions,feeling through s
 
 # TYPES OF COMMUNICATION
 
-[VERBAL COMMUNICATION](https://github.com/Japmankaur/english.notes/blob/main/verbal%20communication.md)
+VERBAL COMMUNICATION](https://github.com/Japmankaur/english.notes/blob/main/verbal%20communication.md
 
-[NON VERBAL COMMUNICATION](https://github.com/Japmankaur/english.notes/blob/main/non%20verbal%20communication.md)
+NON VERBAL COMMUNICATION](https://github.com/Japmankaur/english.notes/blob/main/non%20verbal%20communication.md
 
 ---
 
