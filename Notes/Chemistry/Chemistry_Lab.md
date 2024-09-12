@@ -278,9 +278,8 @@ Strength = 0.00136 * 35.5
 1. Rinse the apparatus with running water.
 2. Fill the burette with N/50 solution of AgNO₃ and tighten the burette clamp securely to hold the burette firmly in place.
 3. Pipette out 25mL of water sample and transfer it to a titration/conical flask.
-4. Put two drops of Ammonia Buffer in the titration flask containing the water sample.
-5. Put a drop of Potassium chromate in the solution, the color of solution will turn yellow.
-6. Place the titration flask on the burette stand.
+4. Put a drop of Potassium chromate in the solution, the color of solution will turn yellow.
+5. Place the titration flask on the burette stand.
 
  **Start Titration:**
    
@@ -295,6 +294,93 @@ Strength = 0.00136 * 35.5
   1. Handle the stopcock carefully to prevent leaks.
   2. Tighten the burette clamp securely to hold the burette firmly in place.
   3. Adjust the height of the burette clamp to ensure proper alignment with the titration flask.
-  4. After transferring the solution using the pipette, do not shake out the last drops of solution left in it.
-  5. Shake the titration flask gently, make sure the EDTA solution isnt on the inner walls of it.
+  4. Shake the titration flask gently, make sure the EDTA solution isnt on the inner walls of it.
   
+
+## Experiment: 4
+
+### Aim:
+ **To determine the Alkalinity in the given water sample, by using 0.1N HCl solution.**
+ 
+ ### Apparatus: 
+
+**Burette, Burette stand, dropper, funnel, beaker, pipette, titration flask and white tile**
+ 
+### Chemicle required:
+
+**Sample water, 0.1N HCl and Indicator**
+
+#### Indicator:
+a) Phenol- Phthalein
+ End Point: Pnk to colorless
+ b) Methyal- Orange
+ End Point: Yellow to Pinkish - Orange
+
+ ### Theory:
+
+**Alkalinity-**
+1. Presence of Bicarbonates and Carbonates: Alkalinity primarily comes from bicarbonate (HCO₃⁻) and carbonate (CO₃²⁻) ions in the water. 
+2. Presence of Hydroxides.
+3. Ph: Basic (or alkaline) solutions have a pH greater than 7.
+
+ ### Observations:
+ | Sr. No | Initial Burette Reading | Final Burette Reading | Volume used  | Volume of HCl used |
+ | --- | --- | --- | --- | --- |
+| 1. | a) 0 | 7.6 | 7.6 | 9.8 |
+|  | b) 7.6 | 9.8 | 2.2 |  |
+| 2. | a) 9.8 | 17.6 | 8 | 10.9 |
+|  | b) 17.6 | 20.5 | 2.9 |  |
+| 3. | a) 20.5 | 28.4 | 7.9 | 11 |
+|  | b) 28.4 | 31.5 | 3.1 |  |
+
+### Calculation:
+
+ Volume of HCL solution (V₂) = ( 9.8 + 10.9 + 11 )/3
+                               = 10.567 mg/L
+                               
+ N₁V₁ = N₂V₂
+ 
+N₁ = Normal weight of sample water
+
+V₁ = Volume of sample water
+
+N₂ = Normal weight of HCl
+
+N₁ * 25ml = 0.1 * V₂
+
+N₁ * 25ml = 0.1 * 10.567
+
+N₁ = 0.0423 g/L
+
+#### Strenght:
+
+N₁ * CaO₃ equivalent weight
+= 2.1134 g/L
+= 2113.4 mg/L
+
+### Procedure:
+
+1. Rinse the apparatus with running water.
+2. Fill the burette with 0.1N HCl solution and tight the burette clamp securely to hold the burette firmly in place.
+3. Pipette out 25mL of water sample and transfer it to a titration/conical flask.
+4. Put a drop of Phenol- Phthalein in the solution, the color of solution will turn Pink.
+5. Place the titration flask on the burette stand.
+
+ **Start Titration:**
+   
+1. Note the initial reading on the Burette.   
+2. Hold the stopclock with one hand and titration flask with other.
+3. Shake the titration flask gently as the drop of HCl solution pour in the titration flask.
+4. Close the stopclock when the colour turn from pink to colorless
+5. Note down the final reading from the burette.
+6. Put a drop of Methyal- Orange in the titration flask, the color will turn yellow.
+7. Start the titration again.
+8. Close the stopclock when the colour turn from Yellow to Pinkish - Orange.
+9. Note down the final reading from the burette.
+10. Repeat the steps.
+
+  ### Precautions:
+  1. Handle the stopcock carefully to prevent leaks.
+  2. Tighten the burette clamp securely to hold the burette firmly in place.
+  3. Adjust the height of the burette clamp to ensure proper alignment with the titration flask.
+  4. Shake the titration flask gently, make sure the EDTA solution isnt on the inner walls of it.
