@@ -5,9 +5,9 @@ flowchart LR;
     A[Software]-->B[System Software]
     A-->C[Application Software]
     B-->D[Operating System]
-    B-->E[Language Processors and\nDevice Driver Eg:- Interactive\ncompiler]
-    C-->F[General Purpose Software Ex: MS Word, \nMS Powerpoint, MS Excel,etc.]
-    C-->G[Customized Software Eg: Railway tickets,\nReservation Systems]
+    B-->E[Language Processors and Device Driver Eg:- Interactive compiler]
+    C-->F[General Purpose Software Ex: MS Word, MS Powerpoint, MS Excel,etc.]
+    C-->G[Customized Software Eg: Railway tickets, Reservation Systems]
 ```
 
 Software is a collection of instructions or commands computer program that is used to run machine and carry out any function. It is computer program that provides set of instruction to execute computer commands.
