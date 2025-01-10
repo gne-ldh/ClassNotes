@@ -8,11 +8,3 @@ menu = ["main"]
 weight = 1
 +++
 
-# Topics
-
-These topics are written inside different md files.
-1. [L'Hôpital's Rule]({{< relref "l-hopital-rule.md" >}})
-
-# Syllabus
-
-a lot.

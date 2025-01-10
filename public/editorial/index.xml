@@ -6,10 +6,24 @@
     <description>Recent content in Editorial on Notefy Notes Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2025 22:47:08 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 00:56:47 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/editorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Addlatexsupport</title>
+      <title>Fix Homepage Layout</title>
+      <link>http://localhost:1313/editorial/fix-homepage-layout/</link>
+      <pubDate>Sat, 11 Jan 2025 00:56:47 +0530</pubDate>
+      <guid>http://localhost:1313/editorial/fix-homepage-layout/</guid>
+      <description>&lt;h1 id=&#34;issue&#34;&gt;Issue&lt;/h1&gt;&#xA;&lt;p&gt;The homepage has a layout not suited well for a wide screen but for a phone.&#xA;Need to make it look good on wider screen.&lt;/p&gt;&#xA;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;&#xA;&lt;p&gt;Started&lt;/p&gt;&#xA;&lt;h1 id=&#34;steps&#34;&gt;Steps&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Reaseaching if tampering &lt;code&gt;ClassNotes/layouts/partials/&lt;/code&gt; would work&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Add All Subject Notes</title>
+      <link>http://localhost:1313/editorial/add-all-subject-notes/</link>
+      <pubDate>Sat, 11 Jan 2025 00:53:37 +0530</pubDate>
+      <guid>http://localhost:1313/editorial/add-all-subject-notes/</guid>
+      <description>&lt;h1 id=&#34;issue&#34;&gt;Issue&lt;/h1&gt;&#xA;&lt;p&gt;The notes of previous sem are missing. Some of them are given in main branch.&#xA;We need to paste them here in respective folders.&lt;/p&gt;&#xA;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;&#xA;&lt;p&gt;Ongoing&lt;/p&gt;&#xA;&lt;h1 id=&#34;steps-taken&#34;&gt;Steps taken&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Math started&lt;/li&gt;&#xA;&lt;li&gt;Chemistry started&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Add Latex Support</title>
       <link>http://localhost:1313/editorial/add-latex-support/</link>
       <pubDate>Fri, 10 Jan 2025 22:47:08 +0530</pubDate>
       <guid>http://localhost:1313/editorial/add-latex-support/</guid>

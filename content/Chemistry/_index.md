@@ -8,12 +8,5 @@ menu = ["main"]
 weight = 2
 +++
 
-# Topics
-
-These topics are written inside different files.
-
-# Syllabus
-
-not much
 
 

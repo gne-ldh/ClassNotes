@@ -6,8 +6,15 @@
     <description>Recent content in Math on Notefy Notes Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2025 18:15:38 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 01:11:49 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Partial Differential 1</title>
+      <link>http://localhost:1313/math/partial-differential-1/</link>
+      <pubDate>Sat, 11 Jan 2025 01:11:49 +0530</pubDate>
+      <guid>http://localhost:1313/math/partial-differential-1/</guid>
+      <description>&lt;h2 id=&#34;31-functions-of-several-variables-limit-and-continuity&#34;&gt;3.1 Functions of Several Variables: Limit and Continuity&lt;/h2&gt;&#xA;&lt;p&gt;The area of an ellipse is πab. It depends on two variables &lt;em&gt;a&lt;/em&gt; and &lt;em&gt;b&lt;/em&gt;; The total surface area of a rectangular parallelepiped is 2(xy + yz + zx) and it depends on 3 variables x, y, z; The velocity v of a fluid particle moving in space depends on 4 variables x, y, z, t. In transportation problems in operations research, the cost function to be minimized is a function of several (m: n; running into hundreds) variables (where m is the number of origins and n is the number of destinations). Thus, functions of several variables play a vital role in advanced Mathematics.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Lhopital Rule</title>
       <link>http://localhost:1313/math/l-hopital-rule/</link>

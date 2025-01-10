@@ -6,10 +6,45 @@
     <description>Recent content in Welcome Aboard! on Notefy Notes Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 10 Jan 2025 22:47:08 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 01:11:49 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Addlatexsupport</title>
+      <title>Partial Differential 1</title>
+      <link>http://localhost:1313/math/partial-differential-1/</link>
+      <pubDate>Sat, 11 Jan 2025 01:11:49 +0530</pubDate>
+      <guid>http://localhost:1313/math/partial-differential-1/</guid>
+      <description>&lt;h2 id=&#34;31-functions-of-several-variables-limit-and-continuity&#34;&gt;3.1 Functions of Several Variables: Limit and Continuity&lt;/h2&gt;&#xA;&lt;p&gt;The area of an ellipse is πab. It depends on two variables &lt;em&gt;a&lt;/em&gt; and &lt;em&gt;b&lt;/em&gt;; The total surface area of a rectangular parallelepiped is 2(xy + yz + zx) and it depends on 3 variables x, y, z; The velocity v of a fluid particle moving in space depends on 4 variables x, y, z, t. In transportation problems in operations research, the cost function to be minimized is a function of several (m: n; running into hundreds) variables (where m is the number of origins and n is the number of destinations). Thus, functions of several variables play a vital role in advanced Mathematics.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chemistry Lab</title>
+      <link>http://localhost:1313/chemistry/chemistry-lab/</link>
+      <pubDate>Sat, 11 Jan 2025 01:09:16 +0530</pubDate>
+      <guid>http://localhost:1313/chemistry/chemistry-lab/</guid>
+      <description>&lt;h1 id=&#34;chemistry-lab&#34;&gt;Chemistry Lab&lt;/h1&gt;&#xA;&lt;h2 id=&#34;experiment-1&#34;&gt;Experiment 1&lt;/h2&gt;&#xA;&lt;h3 id=&#34;aim&#34;&gt;Aim:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Introduction to glass apparatus in chemistry labouratry. Its handling, using, cleaning and precautions to  be taken.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;apparatus&#34;&gt;Apparatus:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Beaker, Pipette, Titration flask, Funnel, Burette, Burette Stand, Cylinder&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;beaker&#34;&gt;Beaker:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Beakers are cylindrical in shape with a flat bottom. They are generally made of glass and are graduated with markings to measure liquids accurately. Most also have a small spout (or &amp;ldquo;beak&amp;rdquo;) to aid pouring.&lt;/em&gt;&#xA;&lt;em&gt;Beakers come in different sizes, with the most common being 50 ml, 100 ml, 250 ml, 500 ml etc.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Water Chemistry</title>
+      <link>http://localhost:1313/chemistry/water-chemistry/</link>
+      <pubDate>Sat, 11 Jan 2025 01:06:47 +0530</pubDate>
+      <guid>http://localhost:1313/chemistry/water-chemistry/</guid>
+      <description>&lt;h1 id=&#34;chapter-1&#34;&gt;Chapter-1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;water-chemistry&#34;&gt;WATER CHEMISTRY&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sources-of-water&#34;&gt;Sources of water:&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Water is a critical resource for human survival and livelihood. It is essential for drinking, agriculture, industry, and ecosystem health. There are three sources of water on Earth:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;1. Rainwater&lt;/strong&gt;: Rainwater is one of the most abundant sources of water, supplying the majority of the world&amp;rsquo;s freshwater. While it is not always consistent, rainwater can be harvested and stored for future use, providing a reliable source of water in many regions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fix Homepage Layout</title>
+      <link>http://localhost:1313/editorial/fix-homepage-layout/</link>
+      <pubDate>Sat, 11 Jan 2025 00:56:47 +0530</pubDate>
+      <guid>http://localhost:1313/editorial/fix-homepage-layout/</guid>
+      <description>&lt;h1 id=&#34;issue&#34;&gt;Issue&lt;/h1&gt;&#xA;&lt;p&gt;The homepage has a layout not suited well for a wide screen but for a phone.&#xA;Need to make it look good on wider screen.&lt;/p&gt;&#xA;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;&#xA;&lt;p&gt;Started&lt;/p&gt;&#xA;&lt;h1 id=&#34;steps&#34;&gt;Steps&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Reaseaching if tampering &lt;code&gt;ClassNotes/layouts/partials/&lt;/code&gt; would work&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Add All Subject Notes</title>
+      <link>http://localhost:1313/editorial/add-all-subject-notes/</link>
+      <pubDate>Sat, 11 Jan 2025 00:53:37 +0530</pubDate>
+      <guid>http://localhost:1313/editorial/add-all-subject-notes/</guid>
+      <description>&lt;h1 id=&#34;issue&#34;&gt;Issue&lt;/h1&gt;&#xA;&lt;p&gt;The notes of previous sem are missing. Some of them are given in main branch.&#xA;We need to paste them here in respective folders.&lt;/p&gt;&#xA;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;&#xA;&lt;p&gt;Ongoing&lt;/p&gt;&#xA;&lt;h1 id=&#34;steps-taken&#34;&gt;Steps taken&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Math started&lt;/li&gt;&#xA;&lt;li&gt;Chemistry started&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Add Latex Support</title>
       <link>http://localhost:1313/editorial/add-latex-support/</link>
       <pubDate>Fri, 10 Jan 2025 22:47:08 +0530</pubDate>
       <guid>http://localhost:1313/editorial/add-latex-support/</guid>

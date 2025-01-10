@@ -10,5 +10,4 @@ weight = 10
 
 # Initiatives Taken
 
-
-1. []()
+Here all the dev tasks picked up are listed along with their status and steps taken.

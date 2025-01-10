@@ -1,7 +1,7 @@
 +++
 date = '2025-01-10T22:47:08+05:30'
 draft = false
-title = 'Addlatexsupport'
+title = 'Add Latex Support'
 +++
 
 # Adding mathjax in hugo 

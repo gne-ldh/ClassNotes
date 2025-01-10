@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/mantej/Public/githubrepos/researches",
+	"sourceRoot": "/home/mantej/Public/githubrepos/ClassNotes",
 	"sources": [
 		"ananke/css/main.css"
 	],
