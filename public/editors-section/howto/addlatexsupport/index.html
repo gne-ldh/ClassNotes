@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Addlatexsupport | Notefy Notes Site</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="Adding mathjax in hugo
+In order to render math formulae and chemical equations correctly latex rendering needs to be enabled.
+We took a slightly different approach than the one mentioned on hugo&rsquo;s official docs as we have used a theme &ldquo;ananke&rdquo;.
+This tutorial on the official hugo docs site was used to set up mathjax support in our site.
+Status
+Ongoing
+Steps taken
+Steps taken to add MathJax support to this Hugo site while working with the Ananke theme. The key is to inject the MathJax configuration without disrupting the existing theme.">
+    <meta name="generator" content="Hugo 0.139.4">
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="http://localhost:1313/editors-section/howto/addlatexsupport/">
+    
+
+    <meta property="og:url" content="http://localhost:1313/editors-section/howto/addlatexsupport/">
+  <meta property="og:site_name" content="Notefy Notes Site">
+  <meta property="og:title" content="Addlatexsupport">
+  <meta property="og:description" content="Adding mathjax in hugo In order to render math formulae and chemical equations correctly latex rendering needs to be enabled.
+We took a slightly different approach than the one mentioned on hugo’s official docs as we have used a theme “ananke”.
+This tutorial on the official hugo docs site was used to set up mathjax support in our site.
+Status Ongoing
+Steps taken Steps taken to add MathJax support to this Hugo site while working with the Ananke theme. The key is to inject the MathJax configuration without disrupting the existing theme.">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="editors-section">
+    <meta property="article:published_time" content="2025-01-10T22:47:08+05:30">
+    <meta property="article:modified_time" content="2025-01-10T22:47:08+05:30">
+
+  <meta itemprop="name" content="Addlatexsupport">
+  <meta itemprop="description" content="Adding mathjax in hugo In order to render math formulae and chemical equations correctly latex rendering needs to be enabled.
+We took a slightly different approach than the one mentioned on hugo’s official docs as we have used a theme “ananke”.
+This tutorial on the official hugo docs site was used to set up mathjax support in our site.
+Status Ongoing
+Steps taken Steps taken to add MathJax support to this Hugo site while working with the Ananke theme. The key is to inject the MathJax configuration without disrupting the existing theme.">
+  <meta itemprop="datePublished" content="2025-01-10T22:47:08+05:30">
+  <meta itemprop="dateModified" content="2025-01-10T22:47:08+05:30">
+  <meta itemprop="wordCount" content="272">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Addlatexsupport">
+  <meta name="twitter:description" content="Adding mathjax in hugo In order to render math formulae and chemical equations correctly latex rendering needs to be enabled.
+We took a slightly different approach than the one mentioned on hugo’s official docs as we have used a theme “ananke”.
+This tutorial on the official hugo docs site was used to set up mathjax support in our site.
+Status Ongoing
+Steps taken Steps taken to add MathJax support to this Hugo site while working with the Ananke theme. The key is to inject the MathJax configuration without disrupting the existing theme.">
+
+	
+  </head><body class="ma0 avenir bg-near-white development">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        Notefy Notes Site
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+      <div class="ananke-socials"></div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Editors-Sections
+      </aside><div id="sharing" class="mt3 ananke-socials"></div>
+<h1 class="f1 athelas mt3 mb1">Addlatexsupport</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2025-01-10T22:47:08+05:30">January 10, 2025</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><h1 id="adding-mathjax-in-hugo">Adding mathjax in hugo</h1>
+<p>In order to render math formulae and chemical equations correctly latex rendering needs to be enabled.</p>
+<p>We took a slightly different approach than the one mentioned on hugo&rsquo;s official docs as we have used a theme &ldquo;ananke&rdquo;.<br>
+<a href="https://gohugo.io/content-management/mathematics/">This</a> tutorial on the official hugo docs site was used to set up mathjax support in our site.</p>
+<h2 id="status">Status</h2>
+<p>Ongoing</p>
+<h2 id="steps-taken">Steps taken</h2>
+<p>Steps taken to add MathJax support to this Hugo site while working with the Ananke theme. The key is to inject the MathJax configuration without disrupting the existing theme.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span><span style="color:#75715e">&lt;!-- layouts/partials/mathjax.html --&gt;</span>
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">script</span>&gt;
+</span></span><span style="display:flex;"><span>  <span style="color:#a6e22e">MathJax</span> <span style="color:#f92672">=</span> {
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">tex</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">inlineMath</span><span style="color:#f92672">:</span> [[<span style="color:#e6db74">&#39;$&#39;</span>, <span style="color:#e6db74">&#39;$&#39;</span>], [<span style="color:#e6db74">&#39;\\(&#39;</span>, <span style="color:#e6db74">&#39;\\)&#39;</span>]],
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">displayMath</span><span style="color:#f92672">:</span> [[<span style="color:#e6db74">&#39;$$&#39;</span>, <span style="color:#e6db74">&#39;$$&#39;</span>], [<span style="color:#e6db74">&#39;\\[&#39;</span>, <span style="color:#e6db74">&#39;\\]&#39;</span>]],
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">processEscapes</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>,
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">processEnvironments</span><span style="color:#f92672">:</span> <span style="color:#66d9ef">true</span>
+</span></span><span style="display:flex;"><span>    },
+</span></span><span style="display:flex;"><span>    <span style="color:#a6e22e">options</span><span style="color:#f92672">:</span> {
+</span></span><span style="display:flex;"><span>      <span style="color:#a6e22e">skipHtmlTags</span><span style="color:#f92672">:</span> [<span style="color:#e6db74">&#39;script&#39;</span>, <span style="color:#e6db74">&#39;noscript&#39;</span>, <span style="color:#e6db74">&#39;style&#39;</span>, <span style="color:#e6db74">&#39;textarea&#39;</span>, <span style="color:#e6db74">&#39;pre&#39;</span>]
+</span></span><span style="display:flex;"><span>    }
+</span></span><span style="display:flex;"><span>  };
+</span></span><span style="display:flex;"><span>&lt;/<span style="color:#f92672">script</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://polyfill.io/v3/polyfill.min.js?features=es6&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
+</span></span><span style="display:flex;"><span>&lt;<span style="color:#f92672">script</span> <span style="color:#a6e22e">id</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;MathJax-script&#34;</span> <span style="color:#a6e22e">async</span> <span style="color:#a6e22e">src</span><span style="color:#f92672">=</span><span style="color:#e6db74">&#34;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&#34;</span>&gt;&lt;/<span style="color:#f92672">script</span>&gt;
+</span></span></code></pre></div><p>Here&rsquo;s how to integrate this with the Ananke theme:</p>
+<ol>
+<li>
+<p>First, create a new file at <code>layouts/partials/mathjax.html</code> with the content from the artifact above.</p>
+</li>
+<li>
+<p>To add this to your site without modifying the theme directly, create a file <code>layouts/partials/custom-header.html</code> with this single line:</p>
+</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span>{{ partial &#34;mathjax.html&#34; . }}
+</span></span></code></pre></div><p>The Ananke theme automatically includes the <code>custom-header.html</code> partial if it exists, so this is a safe way to add MathJax support.</p>
+<p>You can then use MathJax in your content like this:</p>
+<ul>
+<li>Inline math: <code>$E = mc^2$</code></li>
+<li>Display math: <code>$$\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}$$</code></li>
+<li>Chemical equations: <code>$$\ce{H2O + CO2 -&gt; H2CO3}$$</code></li>
+</ul>
+<p>If you find that this doesn&rsquo;t work, you might need to check:</p>
+<ol>
+<li>That your <code>custom-header.html</code> is in the correct location</li>
+<li>That your theme version supports the <code>custom-header.html</code> partial</li>
+<li>That you don&rsquo;t have any conflicting JavaScript that might interfere with MathJax</li>
+</ol>
+<p>Checkout Hugo documentation](<a href="https://gohugo.io/documentation/">https://gohugo.io/documentation/</a>)</p>
+<ul class="pa0">
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
+    &copy;  Notefy Notes Site 2025 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

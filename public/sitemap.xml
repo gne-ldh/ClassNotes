@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/math/</loc>
+    <lastmod>2025-01-10T18:10:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/chemistry/</loc>
+    <lastmod>2025-01-10T18:10:41+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/editorial/</loc>
+    <lastmod>2025-01-10T23:38:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/editorial/add-latex-support/</loc>
+    <lastmod>2025-01-10T22:47:08+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-10T22:34:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/math/l-hopital-rule/</loc>
+    <lastmod>2025-01-10T18:15:38+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

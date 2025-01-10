@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math on Notefy Notes Site</title>
+    <link>http://localhost:1313/math/</link>
+    <description>Recent content in Math on Notefy Notes Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2025 18:15:38 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lhopital Rule</title>
+      <link>http://localhost:1313/math/l-hopital-rule/</link>
+      <pubDate>Fri, 10 Jan 2025 18:15:38 +0530</pubDate>
+      <guid>http://localhost:1313/math/l-hopital-rule/</guid>
+      <description>&lt;h1 id=&#34;lhôpitals-rule&#34;&gt;L&amp;rsquo;Hôpital&amp;rsquo;s Rule&lt;/h1&gt;&#xA;&lt;p&gt;L&amp;rsquo;Hôpital&amp;rsquo;s Rule was discovered by John Bernoulli as a method to calculate the limits of fractions whose numerators and denominators both approach zero.&lt;/p&gt;&#xA;&lt;h2 id=&#34;indeterminate-quotient&#34;&gt;Indeterminate Quotient&lt;/h2&gt;&#xA;&lt;p&gt;If functions \(f(x)\) and \(g(x)\) are both zero at \(x = a\), then \(\lim_{x \to a} \frac{f(x)}{g(x)}\) cannot be found by direct substitution. Substituting \(x = a\) results in the indeterminate form \(0/0\), which is meaningless.&lt;/p&gt;&#xA;&lt;p&gt;Indeterminate forms can sometimes be resolved, but they may require additional work. For example, finding \(\lim_{x \to 0} \frac{\sin x}{x}\) is a classic example of an indeterminate limit.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

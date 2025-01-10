@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Editorial on Notefy Notes Site</title>
+    <link>http://localhost:1313/editorial/</link>
+    <description>Recent content in Editorial on Notefy Notes Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Jan 2025 22:47:08 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/editorial/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Addlatexsupport</title>
+      <link>http://localhost:1313/editorial/add-latex-support/</link>
+      <pubDate>Fri, 10 Jan 2025 22:47:08 +0530</pubDate>
+      <guid>http://localhost:1313/editorial/add-latex-support/</guid>
+      <description>&lt;h1 id=&#34;adding-mathjax-in-hugo&#34;&gt;Adding mathjax in hugo&lt;/h1&gt;&#xA;&lt;p&gt;In order to render math formulae and chemical equations correctly latex rendering needs to be enabled.&lt;/p&gt;&#xA;&lt;p&gt;We took a slightly different approach than the one mentioned on hugo&amp;rsquo;s official docs as we have used a theme &amp;ldquo;ananke&amp;rdquo;.&lt;br&gt;&#xA;&lt;a href=&#34;https://gohugo.io/content-management/mathematics/&#34;&gt;This&lt;/a&gt; tutorial on the official hugo docs site was used to set up mathjax support in our site.&lt;/p&gt;&#xA;&lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;&#xA;&lt;p&gt;Ongoing&lt;/p&gt;&#xA;&lt;h2 id=&#34;steps-taken&#34;&gt;Steps taken&lt;/h2&gt;&#xA;&lt;p&gt;Steps taken to add MathJax support to this Hugo site while working with the Ananke theme. The key is to inject the MathJax configuration without disrupting the existing theme.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
