@@ -2,41 +2,121 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/math/</loc>
+    <loc>http://localhost:45645/math/</loc>
     <lastmod>2025-01-10T18:10:02+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chemistry/</loc>
+    <loc>http://localhost:45645/chemistry/</loc>
     <lastmod>2025-01-10T18:10:41+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/editorial/</loc>
+    <loc>http://localhost:45645/edg/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/pps/</loc>
+    <lastmod>2025-01-11T09:49:42+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/english/</loc>
+    <lastmod>2025-01-11T10:49:29+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/economics/</loc>
+    <lastmod>2025-01-11T11:05:04+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/editorial/</loc>
     <lastmod>2025-01-10T23:38:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/math/partial-differential-1/</loc>
+    <loc>http://localhost:45645/economics/introduction/</loc>
+    <lastmod>2025-01-11T11:07:56+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/english/more-on-business-communication/</loc>
+    <lastmod>2025-01-11T11:03:04+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/english/business-communication/</loc>
+    <lastmod>2025-01-11T11:00:48+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/english/non-verbal-communication/</loc>
+    <lastmod>2025-01-11T10:59:23+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/english/barriers-in-communication/</loc>
+    <lastmod>2025-01-11T10:56:30+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/english/communication-introduction/</loc>
+    <lastmod>2025-01-11T10:54:38+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/pps/syllabus-pps/</loc>
+    <lastmod>2025-01-11T10:39:49+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/pps/understanding-software/</loc>
+    <lastmod>2025-01-11T10:37:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/pps/memory-and-storage-devices/</loc>
+    <lastmod>2025-01-11T10:34:03+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/pps/language-processors/</loc>
+    <lastmod>2025-01-11T10:32:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/pps/input-and-output-devices/</loc>
+    <lastmod>2025-01-11T10:31:40+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/pps/basics-and-flowchart/</loc>
+    <lastmod>2025-01-11T10:28:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/math/exercises/dpp-1/</loc>
+    <lastmod>2025-01-11T09:45:05+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/math/partial-differential-2/</loc>
+    <lastmod>2025-01-11T09:40:35+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/edg/syllabus-edg/</loc>
+    <lastmod>2025-01-11T09:10:12+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/tags/cad/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/categories/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/tags/design/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/tags/drafting/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/tags/engineering/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/categories/engineering/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/tags/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/tags/technical-drawing/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/categories/technical-skills/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:45645/math/partial-differential-1/</loc>
     <lastmod>2025-01-11T01:11:49+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chemistry/chemistry-lab/</loc>
+    <loc>http://localhost:45645/chemistry/chemistry-lab/</loc>
     <lastmod>2025-01-11T01:09:16+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/chemistry/water-chemistry/</loc>
+    <loc>http://localhost:45645/chemistry/water-chemistry/</loc>
     <lastmod>2025-01-11T01:06:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/editorial/fix-homepage-layout/</loc>
+    <loc>http://localhost:45645/editorial/fix-homepage-layout/</loc>
     <lastmod>2025-01-11T00:56:47+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/editorial/add-all-subject-notes/</loc>
+    <loc>http://localhost:45645/editorial/add-all-subject-notes/</loc>
     <lastmod>2025-01-11T00:53:37+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/editorial/add-latex-support/</loc>
+    <loc>http://localhost:45645/editorial/add-latex-support/</loc>
     <lastmod>2025-01-10T22:47:08+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:45645/</loc>
     <lastmod>2025-01-10T22:34:21+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/math/l-hopital-rule/</loc>
+    <loc>http://localhost:45645/math/l-hopital-rule/</loc>
     <lastmod>2025-01-10T18:15:38+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

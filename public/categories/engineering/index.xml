@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engineering on Notefy Notes Site</title>
+    <link>http://localhost:45645/categories/engineering/</link>
+    <description>Recent content in Engineering on Notefy Notes Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2025 09:04:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:45645/categories/engineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>EDG</title>
+      <link>http://localhost:45645/edg/</link>
+      <pubDate>Sat, 11 Jan 2025 09:04:00 +0530</pubDate>
+      <guid>http://localhost:45645/edg/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Engineering drawing is the language of engineers, speaking through lines what words cannot express.&amp;rdquo;&lt;br&gt;&#xA;-&lt;em&gt;&lt;strong&gt;Someone&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

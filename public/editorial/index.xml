@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Editorial on Notefy Notes Site</title>
-    <link>http://localhost:1313/editorial/</link>
+    <link>http://localhost:45645/editorial/</link>
     <description>Recent content in Editorial on Notefy Notes Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Jan 2025 00:56:47 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/editorial/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:45645/editorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fix Homepage Layout</title>
-      <link>http://localhost:1313/editorial/fix-homepage-layout/</link>
+      <link>http://localhost:45645/editorial/fix-homepage-layout/</link>
       <pubDate>Sat, 11 Jan 2025 00:56:47 +0530</pubDate>
-      <guid>http://localhost:1313/editorial/fix-homepage-layout/</guid>
+      <guid>http://localhost:45645/editorial/fix-homepage-layout/</guid>
       <description>&lt;h1 id=&#34;issue&#34;&gt;Issue&lt;/h1&gt;&#xA;&lt;p&gt;The homepage has a layout not suited well for a wide screen but for a phone.&#xA;Need to make it look good on wider screen.&lt;/p&gt;&#xA;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;&#xA;&lt;p&gt;Started&lt;/p&gt;&#xA;&lt;h1 id=&#34;steps&#34;&gt;Steps&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Reaseaching if tampering &lt;code&gt;ClassNotes/layouts/partials/&lt;/code&gt; would work&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Add All Subject Notes</title>
-      <link>http://localhost:1313/editorial/add-all-subject-notes/</link>
+      <link>http://localhost:45645/editorial/add-all-subject-notes/</link>
       <pubDate>Sat, 11 Jan 2025 00:53:37 +0530</pubDate>
-      <guid>http://localhost:1313/editorial/add-all-subject-notes/</guid>
-      <description>&lt;h1 id=&#34;issue&#34;&gt;Issue&lt;/h1&gt;&#xA;&lt;p&gt;The notes of previous sem are missing. Some of them are given in main branch.&#xA;We need to paste them here in respective folders.&lt;/p&gt;&#xA;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;&#xA;&lt;p&gt;Ongoing&lt;/p&gt;&#xA;&lt;h1 id=&#34;steps-taken&#34;&gt;Steps taken&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Math started&lt;/li&gt;&#xA;&lt;li&gt;Chemistry started&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <guid>http://localhost:45645/editorial/add-all-subject-notes/</guid>
+      <description>&lt;h1 id=&#34;issue&#34;&gt;Issue&lt;/h1&gt;&#xA;&lt;p&gt;The notes of previous sem are missing. Some of them are given in main branch.&#xA;We need to paste them here in respective folders.&lt;/p&gt;&#xA;&lt;h1 id=&#34;status&#34;&gt;Status&lt;/h1&gt;&#xA;&lt;p&gt;Done.&lt;/p&gt;&#xA;&lt;h1 id=&#34;steps-taken&#34;&gt;Steps taken&lt;/h1&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Formatted the content of some of the previous md files of all subjects&lt;/li&gt;&#xA;&lt;li&gt;Included them in the new orgainised content form&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
       <title>Add Latex Support</title>
-      <link>http://localhost:1313/editorial/add-latex-support/</link>
+      <link>http://localhost:45645/editorial/add-latex-support/</link>
       <pubDate>Fri, 10 Jan 2025 22:47:08 +0530</pubDate>
-      <guid>http://localhost:1313/editorial/add-latex-support/</guid>
+      <guid>http://localhost:45645/editorial/add-latex-support/</guid>
       <description>&lt;h1 id=&#34;adding-mathjax-in-hugo&#34;&gt;Adding mathjax in hugo&lt;/h1&gt;&#xA;&lt;p&gt;In order to render math formulae and chemical equations correctly latex rendering needs to be enabled.&lt;/p&gt;&#xA;&lt;p&gt;We took a slightly different approach than the one mentioned on hugo&amp;rsquo;s official docs as we have used a theme &amp;ldquo;ananke&amp;rdquo;.&lt;br&gt;&#xA;&lt;a href=&#34;https://gohugo.io/content-management/mathematics/&#34;&gt;This&lt;/a&gt; tutorial on the official hugo docs site was used to set up mathjax support in our site.&lt;/p&gt;&#xA;&lt;h2 id=&#34;status&#34;&gt;Status&lt;/h2&gt;&#xA;&lt;p&gt;Ongoing&lt;/p&gt;&#xA;&lt;h2 id=&#34;steps-taken&#34;&gt;Steps taken&lt;/h2&gt;&#xA;&lt;p&gt;Steps taken to add MathJax support to this Hugo site while working with the Ananke theme. The key is to inject the MathJax configuration without disrupting the existing theme.&lt;/p&gt;</description>
     </item>
   </channel>
