@@ -8,8 +8,71 @@
     <loc>http://localhost:1313/chemistry/</loc>
     <lastmod>2025-01-10T18:10:41+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/edg/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pps/</loc>
+    <lastmod>2025-01-11T09:49:42+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/editorial/</loc>
     <lastmod>2025-01-10T23:38:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/english/</loc>
+    <lastmod>2025-01-11T10:49:29+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pps/syllabus-pps/</loc>
+    <lastmod>2025-01-11T10:39:49+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pps/understanding-software/</loc>
+    <lastmod>2025-01-11T10:37:47+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pps/memory-and-storage-devices/</loc>
+    <lastmod>2025-01-11T10:34:03+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pps/language-processors/</loc>
+    <lastmod>2025-01-11T10:32:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pps/input-and-output-devices/</loc>
+    <lastmod>2025-01-11T10:31:40+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pps/basics-and-flowchart/</loc>
+    <lastmod>2025-01-11T10:28:02+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/math/exercises/dpp-1/</loc>
+    <lastmod>2025-01-11T09:45:05+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/math/partial-differential-2/</loc>
+    <lastmod>2025-01-11T09:40:35+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/edg/syllabus-edg/</loc>
+    <lastmod>2025-01-11T09:10:12+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cad/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/design/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/drafting/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/engineering/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/engineering/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/technical-drawing/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technical-skills/</loc>
+    <lastmod>2025-01-11T09:04:00+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/math/partial-differential-1/</loc>
     <lastmod>2025-01-11T01:11:49+05:30</lastmod>
@@ -34,9 +97,5 @@
   </url><url>
     <loc>http://localhost:1313/math/l-hopital-rule/</loc>
     <lastmod>2025-01-10T18:15:38+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

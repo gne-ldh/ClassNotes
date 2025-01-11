@@ -12,9 +12,9 @@ We need to paste them here in respective folders.
 
 # Status
 
-Ongoing
+Done.
 
 # Steps taken
 
-1. Math started
-1. Chemistry started
+1. Formatted the content of some of the previous md files of all subjects
+1. Included them in the new orgainised content form

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EDG on Notefy Notes Site</title>
+    <link>http://localhost:1313/edg/</link>
+    <description>Recent content in EDG on Notefy Notes Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2025 09:10:12 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/edg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Syllabus Edg</title>
+      <link>http://localhost:1313/edg/syllabus-edg/</link>
+      <pubDate>Sat, 11 Jan 2025 09:10:12 +0530</pubDate>
+      <guid>http://localhost:1313/edg/syllabus-edg/</guid>
+      <description>&lt;h1 id=&#34;edg-syllabus&#34;&gt;EDG Syllabus&lt;/h1&gt;&#xA;&lt;p&gt;All syllabus shall be uploaded here.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
