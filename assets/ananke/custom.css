@@ -1,0 +1,8 @@
+.tag-link:hover {
+  color: #2ecc71 !important;
+  border-color: #2ecc71 !important;
+}
+
+code{
+	text-align: left; !important
+}
