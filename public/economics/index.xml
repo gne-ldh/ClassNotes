@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economics on Notefy Notes Site</title>
-    <link>http://localhost:1313/economics/</link>
+    <link>http://localhost:45645/economics/</link>
     <description>Recent content in Economics on Notefy Notes Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 11 Jan 2025 11:07:56 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/economics/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:45645/economics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/economics/introduction/</link>
+      <link>http://localhost:45645/economics/introduction/</link>
       <pubDate>Sat, 11 Jan 2025 11:07:56 +0530</pubDate>
-      <guid>http://localhost:1313/economics/introduction/</guid>
+      <guid>http://localhost:45645/economics/introduction/</guid>
       <description>&lt;h1 id=&#34;engineering-economics&#34;&gt;Engineering Economics&lt;/h1&gt;&#xA;&lt;h2 id=&#34;chapter-1-introduction-to-economics&#34;&gt;Chapter 1: Introduction to Economics&lt;/h2&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Every field of study has its own unique language and way of thinking. Mathematics communicates through the precise terms of algebra and calculus, while science relies on empirical methods involving experiments and observation. Economics, too, has its distinctive framework and terminology. It investigates how society allocates scarce resources to satisfy unlimited wants and needs, employing concepts such as supply and demand, opportunity cost, and market equilibrium.&lt;/p&gt;</description>
     </item>
   </channel>
