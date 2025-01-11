@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>Tgpt in Termux | Notefy Notes Site</title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="Installing tgpt (Terminal GPT) in Termux
+Why tgpt?
+As developers, we often find ourselves needing quick access to AI assistance while coding. Having an AI assistant right in your terminal is incredibly powerful - it&rsquo;s where we spend most of our time anyway! tgpt brings this experience directly to your command line.
+I discovered tgpt through my mentor, and it&rsquo;s been a game-changer for my development workflow. Here&rsquo;s why developers love it:">
+    <meta name="generator" content="Hugo 0.140.2">
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+    
+
+    
+<link rel="stylesheet" href="/ananke/css/main.min.css" >
+
+
+
+    
+
+    
+      
+
+    
+
+    
+
+    
+      <link rel="canonical" href="http://localhost:1313/blogs/tgpt-in-termux/">
+    
+
+    <meta property="og:url" content="http://localhost:1313/blogs/tgpt-in-termux/">
+  <meta property="og:site_name" content="Notefy Notes Site">
+  <meta property="og:title" content="Tgpt in Termux">
+  <meta property="og:description" content="Installing tgpt (Terminal GPT) in Termux Why tgpt? As developers, we often find ourselves needing quick access to AI assistance while coding. Having an AI assistant right in your terminal is incredibly powerful - it’s where we spend most of our time anyway! tgpt brings this experience directly to your command line.
+I discovered tgpt through my mentor, and it’s been a game-changer for my development workflow. Here’s why developers love it:">
+  <meta property="og:locale" content="en_us">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blogs">
+    <meta property="article:published_time" content="2025-01-11T09:17:16+00:00">
+    <meta property="article:modified_time" content="2025-01-11T09:17:16+00:00">
+
+  <meta itemprop="name" content="Tgpt in Termux">
+  <meta itemprop="description" content="Installing tgpt (Terminal GPT) in Termux Why tgpt? As developers, we often find ourselves needing quick access to AI assistance while coding. Having an AI assistant right in your terminal is incredibly powerful - it’s where we spend most of our time anyway! tgpt brings this experience directly to your command line.
+I discovered tgpt through my mentor, and it’s been a game-changer for my development workflow. Here’s why developers love it:">
+  <meta itemprop="datePublished" content="2025-01-11T09:17:16+00:00">
+  <meta itemprop="dateModified" content="2025-01-11T09:17:16+00:00">
+  <meta itemprop="wordCount" content="462">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Tgpt in Termux">
+  <meta name="twitter:description" content="Installing tgpt (Terminal GPT) in Termux Why tgpt? As developers, we often find ourselves needing quick access to AI assistance while coding. Having an AI assistant right in your terminal is incredibly powerful - it’s where we spend most of our time anyway! tgpt brings this experience directly to your command line.
+I discovered tgpt through my mentor, and it’s been a game-changer for my development workflow. Here’s why developers love it:">
+
+	
+  </head><body class="ma0 avenir bg-near-white development">
+
+    
+   
+  
+
+  <header>
+    <div class="bg-black">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        Notefy Notes Site
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/blogs/" title="Blogs page">
+              Blogs
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/math/" title="Math page">
+              Math
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/chemistry/" title="Chemistry page">
+              Chemistry
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/edg/" title="EDG page">
+              EDG
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/pps/" title="PPS page">
+              PPS
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/english/" title="English page">
+              English
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/economics/" title="Economics page">
+              Economics
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="/editorial/" title="Editorial page">
+              Editorial
+            </a>
+          </li>
+          
+        </ul>
+      
+      <div class="ananke-socials"></div>
+
+    </div>
+  </div>
+</nav>
+
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked ttu">
+          
+        Blogs
+      </aside><div id="sharing" class="mt3 ananke-socials"></div>
+<h1 class="f1 athelas mt3 mb1">Tgpt in Termux</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2025-01-11T09:17:16Z">January 11, 2025</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><h1 id="installing-tgpt-terminal-gpt-in-termux">Installing tgpt (Terminal GPT) in Termux</h1>
+<h2 id="why-tgpt">Why tgpt?</h2>
+<p>As developers, we often find ourselves needing quick access to AI assistance while coding. Having an AI assistant right in your terminal is incredibly powerful - it&rsquo;s where we spend most of our time anyway! tgpt brings this experience directly to your command line.</p>
+<p>I discovered tgpt through my mentor, and it&rsquo;s been a game-changer for my development workflow. Here&rsquo;s why developers love it:</p>
+<ul>
+<li><strong>Stay in Flow</strong>: No need to switch contexts between your terminal and browser</li>
+<li><strong>Lightning Fast</strong>: Get answers right where you need them, without the overhead of a web interface</li>
+<li><strong>Resource Efficient</strong>: Perfect for devices with limited resources or slower internet connections</li>
+<li><strong>Privacy Focused</strong>: Your terminal, your rules</li>
+<li><strong>Keyboard-Driven</strong>: For developers who live by their keyboards</li>
+<li><strong>Mobile Development</strong>: Combined with Termux, it turns your Android device into a powerful development companion</li>
+</ul>
+<p>Whether you&rsquo;re debugging code, learning new concepts, or just need a quick reference, having AI assistance in your terminal is invaluable. Let&rsquo;s get it set up on your Android device with Termux!</p>
+<h1 id="installing-tgpt-terminal-gpt-in-termux-1">Installing tgpt (Terminal GPT) in Termux</h1>
+<p>This guide explains how to install tgpt, a command-line interface for AI chat, in Termux on Android. We&rsquo;ll build it from source to ensure compatibility with ARM64/AArch64 devices.</p>
+<h2 id="prerequisites">Prerequisites</h2>
+<p>Before starting, make sure you have Termux installed from F-Droid or Google Play Store.</p>
+<h2 id="checking-your-architecture">Checking Your Architecture</h2>
+<p>First, check your device&rsquo;s architecture using:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>uname -m
+</span></span></code></pre></div><p>If you see <code>aarch64</code> as output, this guide is perfect for you. This indicates you&rsquo;re running an ARM64 device, which is common for modern Android phones.</p>
+<h2 id="installation-steps">Installation Steps</h2>
+<h3 id="1-install-required-dependencies">1. Install Required Dependencies</h3>
+<p>Install Go (Golang), which is needed to build tgpt from source:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>pkg install golang git
+</span></span></code></pre></div><h3 id="2-download-source-code">2. Download Source Code</h3>
+<p>Clone the official tgpt repository:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git clone https://github.com/aandrew-me/tgpt
+</span></span></code></pre></div><h3 id="3-build-the-executable">3. Build the Executable</h3>
+<p>Navigate to the source directory and build:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>cd tgpt
+</span></span><span style="display:flex;"><span>go build
+</span></span></code></pre></div><h3 id="4-move-to-system-path">4. Move to System Path</h3>
+<p>Move the compiled binary to your Termux binary directory:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>mv tgpt $PREFIX/bin/
+</span></span></code></pre></div><h2 id="testing-the-installation">Testing the Installation</h2>
+<p>Test if tgpt is working:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>tgpt --help
+</span></span></code></pre></div><p>You should see the help menu with available commands and options.</p>
+<h2 id="why-build-from-source">Why Build from Source?</h2>
+<p>While tgpt provides pre-built binaries, building from source ensures:</p>
+<ol>
+<li>Perfect compatibility with your device&rsquo;s architecture</li>
+<li>Avoids issues with pre-built binaries that might not work on all ARM64 devices</li>
+<li>Gets you the latest version of the software</li>
+</ol>
+<h2 id="troubleshooting">Troubleshooting</h2>
+<p>If you encounter the error:</p>
+<pre tabindex="0"><code>error: &#34;/data/data/com.termux/files/usr/bin/tgpt&#34; has unexpected e_type: 2
+</code></pre><p>This indicates an architecture mismatch, which is why building from source is recommended.</p>
+<h2 id="additional-resources">Additional Resources</h2>
+<ul>
+<li>Original tgpt documentation: <a href="https://github.com/aandrew-me/tgpt">https://github.com/aandrew-me/tgpt</a></li>
+<li>Termux documentation: <a href="https://termux.dev/">https://termux.dev/</a></li>
+</ul>
+<h2 id="notes">Notes</h2>
+<ul>
+<li>The <code>$PREFIX</code> in Termux typically points to <code>/data/data/com.termux/files/usr</code></li>
+<li>While tgpt provides a binary installation script, it may not work correctly in Termux due to different directory structures</li>
+<li>Building from source ensures you get a binary specifically compiled for your device&rsquo;s architecture</li>
+</ul>
+<ul class="pa0">
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="http://localhost:1313/" >
+    &copy;  Notefy Notes Site 2025 
+  </a>
+    <div><div class="ananke-socials"></div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

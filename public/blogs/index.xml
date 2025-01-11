@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Notefy Notes Site</title>
+    <link>http://localhost:1313/blogs/</link>
+    <description>Recent content in Blogs on Notefy Notes Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2025 09:17:16 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tgpt in Termux</title>
+      <link>http://localhost:1313/blogs/tgpt-in-termux/</link>
+      <pubDate>Sat, 11 Jan 2025 09:17:16 +0000</pubDate>
+      <guid>http://localhost:1313/blogs/tgpt-in-termux/</guid>
+      <description>&lt;h1 id=&#34;installing-tgpt-terminal-gpt-in-termux&#34;&gt;Installing tgpt (Terminal GPT) in Termux&lt;/h1&gt;&#xA;&lt;h2 id=&#34;why-tgpt&#34;&gt;Why tgpt?&lt;/h2&gt;&#xA;&lt;p&gt;As developers, we often find ourselves needing quick access to AI assistance while coding. Having an AI assistant right in your terminal is incredibly powerful - it&amp;rsquo;s where we spend most of our time anyway! tgpt brings this experience directly to your command line.&lt;/p&gt;&#xA;&lt;p&gt;I discovered tgpt through my mentor, and it&amp;rsquo;s been a game-changer for my development workflow. Here&amp;rsquo;s why developers love it:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

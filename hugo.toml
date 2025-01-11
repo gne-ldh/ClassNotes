@@ -17,4 +17,4 @@ SectionPageMenu = "main"
 # Site parameters
 [params]
   math = true
-  mainSections = ["Chemistry", "Math", "EDG", "PPS", "English", "Editorial"]
+  mainSections = ["Blogs", "Chemistry", "Math", "EDG", "PPS", "English", "Editorial"]
