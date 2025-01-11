@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/mantej/Public/githubrepos/ClassNotes",
+	"sourceRoot": "/data/data/com.termux/files/home/ClassNotes",
 	"sources": [
 		"ananke/css/main.css"
 	],
